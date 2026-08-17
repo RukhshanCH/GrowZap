@@ -1,0 +1,184 @@
+{
+  "slug": "home",
+  "route": "/",
+  "metaTitle": "GrowZap | Best Full-Service Digital Marketing Agency",
+  "metaDescription": "GrowZap is a top-rated, full-service digital marketing agency helping small businesses grow with SEO,",
+  "h1": "GrowZap — The Full-Service Digital Marketing Agency Built to Grow Your Business",
+  "intro": [
+    "Finding customers online shouldn't feel like guesswork. GrowZap is a full-service digital marketing agency that helps small and growing businesses get found, get chosen, and get more revenue from their marketing — without juggling five different freelancers or vendors. From SEO and paid ads to content, social media, and creative, our team builds marketing systems that work together instead of in silos. Whether you're searching for a **digital marketing company near you** or a **top-rated marketing agency** that can manage everything under one roof, GrowZap is built to be that single, accountable partner."
+  ],
+  "heroCta": "Get Your Free Marketing Audit",
+  "sections": [
+    {
+      "heading": "What Makes GrowZap a Top-Rated Digital Marketing Agency",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most agencies sell services. We build growth systems — meaning every channel we touch (SEO, ads, content, social) is connected to the same business goal: more qualified leads and sales, not just more traffic or followers. Here's what that looks like in practice:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "One strategy, every channel.",
+              "text": "Your SEO content informs your ad copy. Your ad data informs your social content. Nothing operates in isolation."
+            },
+            {
+              "lead": "Transparent reporting.",
+              "text": "You'll always know what we're doing, why we're doing it, and what it's producing — in plain language, not jargon."
+            },
+            {
+              "lead": "No inflated promises.",
+              "text": "We won't tell you we can guarantee a #1 Google ranking, because no honest agency can. What we will do is show you the strategy, the timeline, and the data behind every recommendation."
+            },
+            {
+              "lead": "Dedicated team, not a revolving door.",
+              "text": "You work with people who actually know your business, not a different account manager every quarter. This is the kind of full-service marketing agency model built for businesses that want a long-term growth partner — not a vendor they have to micromanage."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Services",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GrowZap offers the full marketing stack, so you can run one focused strategy instead of stitching together disconnected vendors."
+        }
+      ],
+      "subsections": [
+        {
+          "title": "SEO Services",
+          "body": "Search engine optimization is how customers find you organically — without paying for every single click. We handle local SEO, technical SEO, on-page optimization, and off-page link building to help your site rank and stay ranked. [Explore SEO Services →]"
+        },
+        {
+          "title": "Google Ads & Meta Ads",
+          "body": "When you need leads now, paid advertising fills the gap SEO can't fill overnight. We manage Google Ads and Meta Ads campaigns built around cost-per-acquisition, not vanity clicks. [Explore Paid Ads →]"
+        },
+        {
+          "title": "Social Media Management",
+          "body": "Consistent, on-brand content across the platforms your customers actually use — planned, created, and posted so you don't have to think about it. [Explore Social Media Management →]"
+        },
+        {
+          "title": "Content Writing & Graphic Design",
+          "body": "Website copy, blog content, and visual design that supports your SEO and conversion goals — not just content for content's sake. [Explore Content Writing →]"
+        },
+        {
+          "title": "Video Editing & Reels",
+          "body": "Short-form video drives more reach than almost any other content format right now. We edit reels and video ads that are built to stop the scroll. [Explore Video Editing →]"
+        }
+      ]
+    },
+    {
+      "heading": "Why Local & National Businesses Choose GrowZap",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GrowZap started as a local marketing agency serving small businesses in Colorado and Montana — and that local-first mindset still shapes how we work, even as we now support clients across the USA."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "We understand local search.",
+              "text": "If you're a service-area business competing for \"near me\" searches, that's a different strategy than ranking nationally — and we build for the one that matches your business."
+            },
+            {
+              "lead": "We scale with you.",
+              "text": "Whether you're a single-location small business or expanding into new markets, our service structure grows with your needs instead of locking you into a rigid package."
+            },
+            {
+              "lead": "We're accessible.",
+              "text": "You're not a ticket number. You can talk to the people actually working on your account."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How We Work — Our Growth Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Free Marketing Audit",
+              "text": "We review your current website, SEO, ads, and social presence to find what's working, what's not, and where the opportunity is."
+            },
+            {
+              "lead": "Custom Strategy",
+              "text": "Based on the audit, we build a plan specific to your industry, budget, and goals — not a generic package."
+            },
+            {
+              "lead": "Execution",
+              "text": "Our specialists implement the strategy across the relevant channels, with clear timelines."
+            },
+            {
+              "lead": "Reporting & Optimization",
+              "text": "You get regular, plain-language reports, and we adjust the strategy based on real performance data."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Industries We Serve",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GrowZap works with small and mid-sized businesses across industries including home services, healthcare, eCommerce, professional services, real estate, and hospitality. [See Case Studies →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What does a full-service digital marketing agency actually do?",
+              "a": "A full-service agency manages multiple marketing channels — typically SEO, paid advertising, social media, content, and design — under one team, so your strategy stays consistent across every channel instead of being handled by separate, disconnected vendors."
+            },
+            {
+              "q": "How is GrowZap different from other digital marketing companies near me?",
+              "a": "We combine local market knowledge with a full-channel service model, transparent reporting, and a dedicated team structure — so you're not paying for an agency that disappears after onboarding or hides results behind confusing dashboards."
+            },
+            {
+              "q": "How much does it cost to work with a digital marketing agency?",
+              "a": "Costs vary based on the channels and scope you need. We offer tiered packages designed for small business budgets, and we'll recommend the right starting point during your free audit rather than upselling you on services you don't need yet."
+            },
+            {
+              "q": "How long does it take to see results from digital marketing?",
+              "a": "SEO typically shows meaningful movement in 3–6 months, since it's a compounding, long-term channel. Paid ads can generate leads within days of launch. We'll set realistic expectations for your specific situation during onboarding."
+            },
+            {
+              "q": "Do you work with businesses outside Colorado and Montana?",
+              "a": "Yes. While we're rooted in Colorado and Montana, we work with businesses across the USA, both locally-focused and nationally-focused."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get Your Free Marketing Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See exactly where your website, SEO, and ads stand today — and what it would take to grow. No pressure, no generic sales pitch, just a clear breakdown from a team that actually does this work."
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

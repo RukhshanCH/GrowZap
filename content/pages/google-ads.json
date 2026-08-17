@@ -1,0 +1,137 @@
+{
+  "slug": "google-ads",
+  "route": "/services/google-ads",
+  "metaTitle": "Google Ads Management | Results-Driven PPC Agency — GrowZap",
+  "metaDescription": "GrowZap is a results-driven PPC advertising agency managing Google Ads campaigns built around",
+  "h1": "Google Ads Management — A Results-Driven PPC Advertising Agency",
+  "intro": [
+    "Running Google Ads without a clear strategy is one of the fastest ways to burn through a marketing budget. GrowZap manages Google Ads campaigns built around cost-per-acquisition and actual conversions — not just clicks or impressions that look good on a report but don't translate to revenue. As a results-driven PPC advertising agency, our job is to make sure every dollar of your ad spend is working toward a measurable business outcome."
+  ],
+  "heroCta": "Get a Free Google Ads Audit",
+  "sections": [
+    {
+      "heading": "What Is Google Ads Management?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google Ads management is the ongoing process of building, running, and optimizing paid search campaigns — covering keyword research, ad copy, bid strategy, landing page alignment, and continuous performance monitoring. Unlike SEO, which builds organic visibility over months, Google Ads can generate traffic and leads almost immediately once campaigns go live, making it a different (and complementary) tool in your marketing strategy."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Google Ads Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Campaign Strategy & Keyword Research",
+          "body": "We identify the search terms most likely to convert for your specific business, structured into organized campaigns and ad groups rather than one broad, unfocused campaign."
+        },
+        {
+          "title": "Ad Copywriting & Creative",
+          "body": "We write ad copy designed to match search intent and stand out against competitors, continuously testing variations to improve performance over time."
+        },
+        {
+          "title": "Bid Management & Budget Optimization",
+          "body": "We actively manage bids and budget allocation across campaigns, shifting spend toward what's actually converting rather than letting Google's defaults run unchecked."
+        },
+        {
+          "title": "Conversion Tracking & Reporting",
+          "body": "We set up proper conversion tracking from day one, so every report shows real outcomes — leads, calls, purchases — not just clicks and impressions."
+        }
+      ]
+    },
+    {
+      "heading": "How Much Does Google Ads Management Cost?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google Ads involves two separate costs: your ad spend (paid directly to Google, going toward your actual ad budget) and our management fee (the cost of strategy, optimization, and ongoing campaign management). We're transparent about this distinction upfront, since it's a common source of confusion — and sometimes distrust — with PPC agencies. Management fees typically scale with ad spend and campaign complexity. We'll provide a clear, specific quote based on your goals and budget during your free audit, rather than a one-size-fits-all number."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Google Ads vs. SEO — Which Is Right for You?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google Ads generates traffic immediately but stops the moment you stop paying. SEO builds organic visibility over months but tends to be more cost-effective long-term, since you're not paying per click once you rank. Neither replaces the other — most businesses we work with use Google Ads for immediate lead volume while SEO builds in the background. [Learn more about SEO Services →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Google Ads Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Account Audit & Strategy",
+              "text": "We review your goals, budget, and (if applicable) existing campaign performance to build a strategy from real data."
+            },
+            {
+              "lead": "Campaign Build",
+              "text": "We structure campaigns, ad groups, keywords, and ad copy aligned to your specific conversion goals."
+            },
+            {
+              "lead": "Launch & Optimization",
+              "text": "Campaigns go live with conversion tracking in place, then are actively monitored and adjusted based on early performance data."
+            },
+            {
+              "lead": "Ongoing Reporting",
+              "text": "You receive regular, plain-language reports tied to actual business outcomes, not just platform metrics."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How much should I budget for Google Ads?",
+              "a": "Budget depends on your industry, competition, and goals — we'll recommend a realistic starting budget based on your specific market during the audit, rather than a generic minimum."
+            },
+            {
+              "q": "How quickly will I see results from Google Ads?",
+              "a": "Campaigns can start generating clicks and leads within days of launch, though meaningful optimization typically takes a few weeks as we gather performance data and refine targeting."
+            },
+            {
+              "q": "Do you guarantee a specific ROI from Google Ads?",
+              "a": "No legitimate agency can guarantee a specific return, since outcomes depend on factors like your offer, market, and website conversion rate alongside the ad campaign itself. We focus on transparent tracking and continuous optimization rather than upfront guarantees."
+            },
+            {
+              "q": "What's the difference between your management fee and my ad spend?",
+              "a": "Your ad spend goes directly to Google to run your ads. Our management fee covers strategy, campaign setup, ongoing optimization, and reporting — these are separate costs, and we're upfront about both."
+            },
+            {
+              "q": "Should I do Google Ads or SEO first?",
+              "a": "It depends on your timeline. If you need leads quickly, start with Google Ads. If you're building for the long term and can wait for organic growth, SEO may be the better initial investment — many businesses ultimately benefit from running both together."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Google Ads Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See exactly how your current campaigns are performing — or get a clear starting strategy if you're new to Google Ads."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Google Ads Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

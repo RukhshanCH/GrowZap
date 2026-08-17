@@ -1,0 +1,127 @@
+{
+  "slug": "meta-ads",
+  "route": "/services/meta-ads",
+  "metaTitle": "Meta Ads Management | Facebook & Instagram Advertising — GrowZap",
+  "metaDescription": "GrowZap manages Facebook and Instagram ad campaigns built around real conversions, not just",
+  "h1": "Meta Ads Management — Facebook & Instagram Advertising That Converts",
+  "intro": [
+    "Facebook and Instagram give you access to incredibly specific audience targeting — but that advantage only pays off with the right strategy behind it. GrowZap manages Meta Ads campaigns built around real conversions and qualified leads, not just reach and impressions that look impressive without driving revenue."
+  ],
+  "heroCta": "Get a Free Meta Ads Audit",
+  "sections": [
+    {
+      "heading": "What Is Meta Ads Management?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Meta Ads management covers the strategy, creative, targeting, and ongoing optimization of paid advertising campaigns across Facebook and Instagram. Unlike Google Ads, which targets people actively searching for something, Meta Ads reaches people based on interests, behaviors, and audience characteristics — making it a discovery-based channel rather than a search-intent one. That distinction matters: Meta Ads strategy depends heavily on strong creative and precise audience targeting, since you're capturing attention rather than responding to an existing search."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Meta Ads Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Audience Research & Targeting",
+          "body": "We build audience segments based on your actual customer profile — interests, behaviors, lookalike audiences, and retargeting — rather than relying on broad, unfocused targeting."
+        },
+        {
+          "title": "Ad Creative & Copywriting",
+          "body": "Meta Ads live or die on creative quality. We develop ad visuals, video, and copy designed to stop the scroll and clearly communicate your offer."
+        },
+        {
+          "title": "Campaign Setup & Pixel Tracking",
+          "body": "We implement proper pixel and conversion API tracking from the start, so campaign performance is measured against real actions — not just clicks or video views."
+        },
+        {
+          "title": "Ongoing Optimization & Reporting",
+          "body": "We continuously test creative, audiences, and placements, shifting budget toward what's actually converting, with clear reporting tied to your business outcomes."
+        }
+      ]
+    },
+    {
+      "heading": "Meta Ads vs. Google Ads — What's the Difference?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google Ads targets people actively searching for a solution — high intent, often later in the buying decision. Meta Ads targets people based on who they are and what they're interested in — useful for building awareness and reaching audiences who haven't started searching yet, but typically requires stronger creative to capture attention. Many businesses benefit from running both: Google Ads to capture existing demand, Meta Ads to generate new demand. [Learn more about Google Ads →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Meta Ads Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Audience & Account Audit",
+              "text": "We review your goals, target customer, and any existing campaign data."
+            },
+            {
+              "lead": "Creative & Targeting Strategy",
+              "text": "We build audience segments and develop ad creative aligned to your offer and brand."
+            },
+            {
+              "lead": "Launch & Early Optimization",
+              "text": "Campaigns launch with full tracking in place, with close monitoring during the initial testing phase."
+            },
+            {
+              "lead": "Ongoing Reporting & Refinement",
+              "text": "We continue testing and optimizing based on real performance data, reported in clear, plain-language updates."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How much does Meta Ads management cost?",
+              "a": "Similar to Google Ads, costs include your ad spend (paid to Meta) and our management fee, which scales with campaign complexity and budget. We'll provide a specific quote based on your goals."
+            },
+            {
+              "q": "Is Meta Ads better than Google Ads for my business?",
+              "a": "It depends on your product and customer behavior. If customers actively search for what you offer, Google Ads often performs well immediately. If your offer benefits from visual demonstration or you're trying to reach people who aren't yet searching, Meta Ads can be highly effective — often both work best together."
+            },
+            {
+              "q": "How long does it take to see results from Meta Ads?",
+              "a": "Campaigns typically need an initial testing period (often 1-2 weeks) to gather enough data for the platform's algorithm to optimize delivery effectively, before performance stabilizes."
+            },
+            {
+              "q": "Do I need a large budget to run Meta Ads?",
+              "a": "Meta Ads can work with modest budgets, though very small budgets may limit how much testing and optimization is possible. We'll recommend a realistic starting point based on your goals."
+            },
+            {
+              "q": "What creative do I need to provide for Meta Ads?",
+              "a": "We can develop ad creative as part of our service, though existing brand assets, product photos, or video footage you provide can also be incorporated and often strengthen campaign authenticity."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Meta Ads Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See what's possible for your business on Facebook and Instagram — with a clear, honest assessment of budget and expected outcomes."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Meta Ads Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

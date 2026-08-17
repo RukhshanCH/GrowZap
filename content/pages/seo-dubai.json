@@ -1,0 +1,83 @@
+{
+  "slug": "seo-dubai",
+  "route": "/locations/seo-services-dubai",
+  "metaTitle": "SEO Services in Dubai | Digital Marketing Agency — GrowZap",
+  "metaDescription": "GrowZap offers SEO services in Dubai for businesses ready to grow their",
+  "h1": "SEO Services in Dubai — Grow Your Business in the UAE's Most Competitive Digital Market",
+  "intro": [
+    "Dubai's digital market is growing fast — and so is the competition for visibility in local and regional search. GrowZap's SEO services for Dubai-based businesses are built around the specific characteristics of the UAE search landscape, helping you rank for the queries your local customers are actually using."
+  ],
+  "heroCta": "Get a Free Dubai SEO Audit",
+  "sections": [
+    {
+      "heading": "Why SEO Matters for Dubai Businesses",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dubai has high smartphone penetration and search usage — most customers research businesses online before making a purchasing decision, even for local and in-person services. Businesses that appear prominently in Google for their relevant search terms capture a disproportionate share of that demand."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our SEO Services for Businesses in Dubai",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO for Dubai",
+              "text": "Ranking for location-specific queries and Google Maps visibility in Dubai and the wider UAE. [Learn more →]"
+            },
+            {
+              "lead": "Technical SEO",
+              "text": "Technical optimization appropriate for sites serving UAE audiences, including multilingual considerations. [Learn more →]"
+            },
+            {
+              "lead": "On-Page SEO",
+              "text": "Page-level optimization aligned to how Dubai-area customers search. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Professional English content (and bilingual strategy support where relevant) targeted to Dubai search queries. [Learn more →]"
+            },
+            {
+              "lead": "SEO Audit",
+              "text": "Free audit covering your site's current Dubai market search visibility. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Does SEO work differently in Dubai vs. other markets?",
+              "a": "The fundamentals are the same, but local audience behavior, multilingual considerations, and competitive landscape differ. We account for these factors when building your Dubai SEO strategy."
+            },
+            {
+              "q": "Do you offer Arabic SEO services?",
+              "a": "We build strategies that account for bilingual search behavior in the UAE market. Contact us to discuss multilingual requirements for your specific situation."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Dubai SEO Audit",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Request Your Free Dubai SEO Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

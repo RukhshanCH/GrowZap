@@ -1,0 +1,152 @@
+{
+  "slug": "technical-seo",
+  "route": "/services/seo/technical-seo",
+  "metaTitle": "Technical SEO Services | Site Speed, Crawlability & Audits — GrowZap",
+  "metaDescription": "GrowZap's technical SEO services fix the site speed, crawlability, and structural issues stopping your",
+  "h1": "Technical SEO Services — Fix the Issues Holding Your Rankings Back",
+  "intro": [
+    "You can publish great content and still not rank — if your website has technical issues blocking Google from properly crawling, indexing, or trusting it. GrowZap's technical SEO services identify and fix the behind-the-scenes problems that quietly limit your search visibility, no matter how good your content is."
+  ],
+  "heroCta": "Get a Free Technical SEO Audit",
+  "sections": [
+    {
+      "heading": "What Is Technical SEO?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Technical SEO is the practice of optimizing your website's infrastructure — speed, structure, code, and crawlability — so search engines can access, understand, and rank your pages effectively. Unlike content or link-building, technical SEO is largely invisible to visitors, but it directly affects whether your other SEO efforts can work at all. Think of it as the foundation a house is built on: even excellent content and strong backlinks (the \"house\") won't perform well if the technical foundation underneath is unstable."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Common Technical SEO Issues We Find",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Site Speed & Core Web Vitals",
+          "body": "Slow-loading pages hurt both rankings and user experience. We identify what's slowing your site down — oversized images, unoptimized code, slow hosting — and fix it."
+        },
+        {
+          "title": "Mobile-Friendliness",
+          "body": "Google primarily uses the mobile version of your site for ranking (mobile-first indexing). If your site doesn't function well on a phone, it directly impacts your rankings on every device."
+        },
+        {
+          "title": "Crawlability & Indexing Issues",
+          "body": "If Google's crawlers can't access or properly index your pages — due to robots.txt errors, broken sitemaps, or blocked resources — those pages effectively don't exist in search, regardless of content quality."
+        },
+        {
+          "title": "Site Structure & Internal Linking",
+          "body": "A clear, logical site structure helps both users and search engines understand how your pages relate to each other, and helps distribute ranking authority across your site."
+        },
+        {
+          "title": "Structured Data (Schema Markup)",
+          "body": "Schema markup helps search engines understand the context of your content — and can unlock enhanced search features like star ratings, FAQs, and rich snippets directly in search results."
+        }
+      ]
+    },
+    {
+      "heading": "Signs Your Website Has Technical SEO Problems",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Pages that should rank well aren't appearing in search results at all"
+            },
+            {
+              "lead": null,
+              "text": "Slow load times, especially on mobile"
+            },
+            {
+              "lead": null,
+              "text": "A high bounce rate despite relevant content"
+            },
+            {
+              "lead": null,
+              "text": "Inconsistent or declining rankings without a clear content-related cause"
+            },
+            {
+              "lead": null,
+              "text": "Search Console showing crawl errors or \"excluded\" pages If any of these sound familiar, a technical SEO audit is typically the right starting point — before investing further in content or link building."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Technical SEO Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Comprehensive Audit",
+              "text": "We crawl your site to identify speed, indexing, mobile, and structural issues, prioritized by ranking impact."
+            },
+            {
+              "lead": "Prioritized Fix List",
+              "text": "Not every issue carries equal weight; we focus first on what's most likely to move rankings, not just what's easiest to fix."
+            },
+            {
+              "lead": "Implementation",
+              "text": "Our team handles the technical fixes directly, or works alongside your existing developer if you prefer."
+            },
+            {
+              "lead": "Verification & Monitoring",
+              "text": "We confirm fixes resolved the issue in Google Search Console and continue monitoring for new technical problems over time."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between technical SEO and on-page SEO?",
+              "a": "Technical SEO focuses on your website's infrastructure — speed, crawlability, structure — while on-page SEO focuses on individual page content, like titles, headings, and keyword optimization. Both are necessary; technical SEO ensures Google can access your content, while on-page SEO ensures Google understands it."
+            },
+            {
+              "q": "How do I know if my website has technical SEO issues?",
+              "a": "Common signs include slow load times, pages missing from search results, crawl errors in Google Search Console, or rankings that don't match your content quality. A technical SEO audit will identify specific issues rather than relying on guesswork."
+            },
+            {
+              "q": "Will fixing technical SEO issues guarantee higher rankings?",
+              "a": "No single fix guarantees a ranking increase, since Google's algorithm weighs many factors together. However, unresolved technical issues can actively prevent good content from ranking, so fixing them removes a ceiling on your potential performance."
+            },
+            {
+              "q": "Do I need technical SEO if my site is already getting traffic?",
+              "a": "Possibly, yes. Even sites with decent traffic often have unresolved technical issues limiting further growth — an audit will show whether you're leaving performance on the table."
+            },
+            {
+              "q": "How often should technical SEO be reviewed?",
+              "a": "We recommend a technical audit at least twice a year, or after any major website redesign, platform migration, or significant content addition, since these changes commonly introduce new technical issues."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Technical SEO Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Find out exactly what's slowing your site down or keeping it out of search results — with a clear, prioritized action plan, not just a list of jargon."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Technical SEO Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

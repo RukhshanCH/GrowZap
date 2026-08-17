@@ -1,0 +1,209 @@
+/* ==========================================================================
+   Content block patterns (feature lists, step lists, tables, mini cards)
+   ========================================================================== */
+
+.prose__p {
+  color: var(--color-text-secondary);
+  line-height: var(--lh-body);
+  max-width: 68ch;
+}
+
+.prose__p + .prose__p,
+.prose__p + .feature-list,
+.feature-list + .prose__p,
+.prose__p + .step-list,
+.prose__p + .data-table__wrap,
+.prose__p + .block-cta,
+.feature-list + .block-cta,
+.step-list + .block-cta {
+  margin-top: var(--space-5);
+}
+
+/* ---- Feature list (bullets with optional bold lead-in) ---- */
+.feature-list {
+  list-style: none;
+  display: grid;
+  gap: var(--space-4);
+  max-width: 68ch;
+}
+
+.feature-list__item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  color: var(--color-text-secondary);
+  line-height: var(--lh-body);
+}
+
+.feature-list__item strong {
+  color: var(--color-text-primary);
+}
+
+.feature-list__icon {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+  border-radius: 50%;
+  background: var(--gradient-brand-soft);
+  color: #ffffff;
+}
+
+.section--dark .feature-list__item {
+  color: var(--color-text-on-dark-muted);
+}
+
+.section--dark .feature-list__item strong {
+  color: #ffffff;
+}
+
+/* ---- Step list (ordered, numbered process) ---- */
+.step-list {
+  list-style: none;
+  display: grid;
+  gap: var(--space-7);
+}
+
+.step-list__item {
+  display: flex;
+  gap: var(--space-5);
+}
+
+.step-list__index {
+  flex-shrink: 0;
+  font-family: var(--font-display);
+  font-size: var(--fs-h3);
+  font-weight: var(--fw-semibold);
+  background: var(--gradient-brand);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  line-height: 1;
+  min-width: 44px;
+}
+
+.step-list__body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 4px;
+}
+
+.step-list__lead {
+  font-size: var(--fs-lg);
+  color: var(--color-ink);
+  font-weight: var(--fw-semibold);
+}
+
+.step-list__text {
+  color: var(--color-text-secondary);
+  line-height: var(--lh-body);
+  max-width: 62ch;
+}
+
+.section--dark .step-list__lead {
+  color: #ffffff;
+}
+
+.section--dark .step-list__text {
+  color: var(--color-text-on-dark-muted);
+}
+
+/* ---- Data table (comparisons, pricing matrices) ---- */
+.data-table__wrap {
+  overflow-x: auto;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-md);
+  min-width: 480px;
+}
+
+.data-table th {
+  text-align: left;
+  padding: var(--space-4) var(--space-5);
+  background: var(--color-surface-raised);
+  color: var(--color-ink);
+  font-weight: var(--fw-semibold);
+  font-family: var(--font-body);
+}
+
+.data-table td {
+  padding: var(--space-4) var(--space-5);
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  vertical-align: top;
+}
+
+.data-table tr:first-child td {
+  border-top: none;
+}
+
+/* ---- Mini card grid (H3 subsection groups) ---- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: var(--space-5);
+}
+
+.mini-card {
+  padding: var(--space-6);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  transition: transform var(--motion-fast) var(--ease-out), box-shadow var(--motion-fast) var(--ease-out), border-color var(--motion-fast) var(--ease-out);
+}
+
+.mini-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-2);
+  border-color: var(--color-purple-300);
+}
+
+.mini-card__title {
+  font-size: var(--fs-h4);
+  margin-bottom: var(--space-3);
+}
+
+.mini-card__body {
+  color: var(--color-text-secondary);
+  font-size: var(--fs-md);
+  line-height: var(--lh-body);
+}
+
+.section--dark .mini-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: var(--color-border-on-dark);
+}
+
+.section--dark .mini-card__title {
+  color: #ffffff;
+}
+
+.section--dark .mini-card__body {
+  color: var(--color-text-on-dark-muted);
+}
+
+/* ---- Inline CTA link (within prose, from [Text →] markup) ---- */
+.inline-link {
+  color: var(--color-link);
+  font-weight: var(--fw-medium);
+  text-underline-offset: 3px;
+  text-decoration: underline;
+  text-decoration-color: var(--color-blue-300);
+}
+
+.inline-link:hover {
+  text-decoration-color: currentColor;
+}
+
+.block-cta {
+  padding-top: var(--space-2);
+}

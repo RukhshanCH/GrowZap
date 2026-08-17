@@ -1,0 +1,175 @@
+{
+  "slug": "affordable-seo",
+  "route": "/resources/affordable-seo-services",
+  "metaTitle": "Affordable SEO Services for Small Business — What to Expect | GrowZap",
+  "metaDescription": "What does affordable SEO really include — and what red flags should you",
+  "h1": "Affordable SEO Services — What They Include, What They Cost, and What to Avoid",
+  "intro": [
+    "\"Affordable SEO\" is a phrase you'll see a lot in agency marketing — and it covers a huge range of quality. On one end are legitimate, well-structured SEO services priced appropriately for small business budgets. On the other end are low-cost packages that produce no results or, worse, tactics that actively damage your site's search visibility. This guide helps you understand the difference."
+  ],
+  "heroCta": "Get a Free SEO Audit from GrowZap",
+  "sections": [
+    {
+      "heading": "What Does Affordable SEO Actually Mean?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Affordable SEO means an SEO service that delivers real, documented strategy and execution at a price point accessible to small businesses — not inflated agency markup, and not race-to-the-bottom pricing that requires cutting corners on quality to work. The right price depends on your industry's competitiveness, your site's starting point, and the scope of work involved."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What Affordable SEO Services Should Include",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Even at a budget-appropriate price point, quality SEO services should include:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "An initial SEO audit",
+              "text": "establishing your baseline before any strategy begins"
+            },
+            {
+              "lead": "Keyword research",
+              "text": "specific to your business and audience"
+            },
+            {
+              "lead": "On-page optimization",
+              "text": "of your existing key pages"
+            },
+            {
+              "lead": "Technical SEO",
+              "text": "review and fixes for the most impactful issues"
+            },
+            {
+              "lead": "Content recommendations",
+              "text": "or creation to support target keywords"
+            },
+            {
+              "lead": "Transparent monthly reporting",
+              "text": "with plain-language explanations"
+            },
+            {
+              "lead": "Access to your own data",
+              "text": "you should always own your Google Search Console and Analytics accounts"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What \"Cheap SEO\" Often Means (And Why It Backfires)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Very low-cost SEO typically involves one or more of the following shortcuts:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Automated, low-quality link building",
+              "text": "bulk backlinks from irrelevant or spammy sites, which can result in manual penalties from Google"
+            },
+            {
+              "lead": "Thin, AI-generated content",
+              "text": "produced without research or editorial oversight"
+            },
+            {
+              "lead": "Templated on-page work",
+              "text": "applied identically to every client regardless of industry or strategy"
+            },
+            {
+              "lead": "Vanity metric reporting",
+              "text": "rankings for low-volume or uncompetitive keywords that don't translate to real traffic The problem isn't just that these approaches don't work — some actively harm your site's search visibility and can take months to recover from. Avoiding the cheapest option isn't pessimism; it's protecting your investment."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How Much Should Small Business SEO Actually Cost?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Realistic small business SEO typically ranges from $500–$2,500/month depending on service scope, industry competitiveness, and market. Local SEO for a single-location service business generally sits at the lower end; competitive national e-commerce SEO sits at the higher end. One-time projects (SEO audits, keyword research) typically range from a few hundred to a few thousand dollars depending on site size. We'll give you a specific quote based on your actual situation rather than a generic range — starting with a free audit."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How to Choose an Affordable SEO Company You Can Trust",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Ask what specifically they'll do each month — a vague answer is a warning sign"
+            },
+            {
+              "lead": null,
+              "text": "Confirm you'll own your accounts and data"
+            },
+            {
+              "lead": null,
+              "text": "Ask how they measure success and what reporting looks like"
+            },
+            {
+              "lead": null,
+              "text": "Avoid any company that guarantees specific ranking positions"
+            },
+            {
+              "lead": null,
+              "text": "Look for an audit before a sales pitch — a legitimate company wants to understand your situation before recommending services"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is cheap SEO worth it?",
+              "a": "Occasionally — but the risk of low-cost SEO is significant. Some low-cost providers use tactics that violate Google's guidelines, resulting in ranking penalties rather than improvements. Evaluating what's included (not just the price) is the safest way to distinguish between affordable-but-legitimate and cheap-and-risky."
+            },
+            {
+              "q": "Can I do SEO myself instead of hiring a company?",
+              "a": "Yes — many small business owners successfully manage foundational SEO themselves using Google's free tools. The value an agency adds is typically in specialist technical work, content strategy at scale, and link building, which are harder to execute well without dedicated expertise and tool access."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get Affordable SEO Services From GrowZap",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We offer flexible SEO packages built specifically for small business budgets — and every engagement starts with a free audit so recommendations are based on your site's real data."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free SEO Audit"
+        },
+        {
+          "type": "p",
+          "text": "Contact →"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

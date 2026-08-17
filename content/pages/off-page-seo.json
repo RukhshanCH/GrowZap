@@ -1,0 +1,131 @@
+{
+  "slug": "off-page-seo",
+  "route": "/services/seo/off-page-seo",
+  "metaTitle": "Off-Page SEO & Link Building Services | GrowZap",
+  "metaDescription": "GrowZap's off-page SEO services build real authority through white-hat link building, digital PR, and",
+  "h1": "Off-Page SEO & Link Building Services — Build Real Authority",
+  "intro": [
+    "Off-page SEO is how Google determines whether the rest of the internet considers your site trustworthy and worth ranking. GrowZap's off-page SEO services focus on building real, sustainable authority through white-hat link building and digital PR — not the kind of bulk, low-quality link schemes that put your site at risk of a Google penalty."
+  ],
+  "heroCta": "Get a Free Backlink Profile Review",
+  "sections": [
+    {
+      "heading": "What Is Off-Page SEO?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Off-page SEO covers everything that builds your website's credibility from *outside* your own site — primarily backlinks (other websites linking to yours), but also brand mentions, citations, and reputation signals like reviews. Where on-page and technical SEO are about getting your own house in order, off-page SEO is about earning recognition from the broader web. Google treats quality backlinks as a vote of confidence: when relevant, reputable sites link to you, it signals that your content is credible and worth surfacing in search results."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Off-Page SEO Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "White-Hat Link Building",
+          "body": "We build backlinks through legitimate, relationship-based methods — never through paid link farms or automated spam networks that risk a Google penalty."
+        },
+        {
+          "title": "Digital PR & Guest Posting",
+          "body": "We pursue genuine placement opportunities on relevant, reputable sites in your industry, building both links and real brand visibility at the same time."
+        },
+        {
+          "title": "Local Citations & Brand Mentions",
+          "body": "For local businesses, consistent citations across directories support both off-page SEO and local search visibility (working hand-in-hand with our Local SEO services)."
+        },
+        {
+          "title": "Review & Reputation Signals",
+          "body": "Customer reviews and overall online reputation contribute to trust signals search engines consider — we support sustainable review generation as part of a broader off-page strategy."
+        }
+      ]
+    },
+    {
+      "heading": "Why Link Quality Matters More Than Link Quantity",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Be cautious of any agency promising a specific large number of backlinks per month — it's one of the clearest red flags in the SEO industry, usually indicating low-quality, automated link placements that can result in a Google penalty rather than improved rankings. We prioritize relevance and authority over volume: a handful of links from genuinely relevant, reputable sites in your industry will outperform dozens of low-quality, irrelevant ones — and won't put your site at risk."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Off-Page SEO Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Backlink Profile Audit",
+              "text": "We review your current backlink profile to identify both opportunities and any existing toxic or risky links."
+            },
+            {
+              "lead": "Strategy Development",
+              "text": "We identify realistic, relevant link-building and digital PR opportunities specific to your industry."
+            },
+            {
+              "lead": "Outreach & Placement",
+              "text": "Our team pursues genuine placements through outreach, content partnerships, and digital PR."
+            },
+            {
+              "lead": "Monitoring",
+              "text": "We track new links, referring domains, and overall authority growth, reporting transparently on what's been earned."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between on-page and off-page SEO?",
+              "a": "On-page SEO optimizes elements within your own website (content, titles, headers), while off-page SEO focuses on external signals — primarily backlinks from other websites — that build your site's authority and credibility in Google's eyes."
+            },
+            {
+              "q": "Are backlinks still important for SEO?",
+              "a": "Yes, backlinks remain one of the more significant ranking factors, though quality and relevance matter far more than sheer quantity. A few links from authoritative, relevant sites carry more weight than many low-quality ones."
+            },
+            {
+              "q": "Is link building safe, or can it get my site penalized?",
+              "a": "Link building itself is safe and necessary when done correctly. Risk comes from black-hat tactics — buying bulk links, participating in link farms, or using automated spam networks — which is why we exclusively use white-hat, relationship-based methods."
+            },
+            {
+              "q": "How many backlinks do I need?",
+              "a": "There's no universal number — what matters is the relevance and authority of the linking sites relative to your industry and competitors, not hitting an arbitrary quantity."
+            },
+            {
+              "q": "Can I do off-page SEO myself?",
+              "a": "It's possible, but effective off-page SEO typically requires industry relationships, outreach experience, and an understanding of which tactics are safe versus risky — areas where an experienced team often moves faster and more safely than a DIY approach."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Backlink Profile Review",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See what your current backlink profile looks like — including any risky links — and where the real opportunities are."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Backlink Profile Review"
+        },
+        {
+          "type": "p",
+          "text": "Google ads"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

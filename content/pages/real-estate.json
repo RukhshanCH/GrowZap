@@ -1,0 +1,101 @@
+{
+  "slug": "real-estate",
+  "route": "/industries/real-estate",
+  "metaTitle": "Real Estate Digital Marketing Agency | SEO & Ads for Realtors — GrowZap",
+  "metaDescription": "GrowZap's real estate marketing services help agents and agencies rank",
+  "h1": "Digital Marketing for Real Estate — More Leads, More Listings, More Closings",
+  "intro": [
+    "Real estate is a local, trust-based business — and in today's market, buyers and sellers research agents online before they ever pick up the phone. GrowZap's digital marketing services for real estate help agents and agencies show up where that research happens, build credibility before the first conversation, and generate a consistent pipeline of qualified leads."
+  ],
+  "heroCta": "Book a Free Real Estate Marketing Consultation",
+  "sections": [
+    {
+      "heading": "Why Real Estate Businesses Need a Digital Marketing Strategy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most real estate leads now begin with an online search — whether that's \"real estate agent near me,\" a neighborhood-specific search, or a Google Maps lookup. If your profile and website aren't optimized for those searches, you're invisible at the moment buyers and sellers are actively looking for representation. Beyond search visibility, real estate is a visual, personality-driven industry where social media presence and consistent content directly impact how much potential clients trust you before reaching out."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Real Estate",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "Ranking for your city and neighborhood-specific search terms, with Google Business Profile optimization. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Market reports, neighborhood guides, and buyer/seller resources that build authority and drive organic traffic. [Learn more →]"
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Consistent, on-brand content across Instagram and Facebook that showcases listings and builds agent credibility. [Learn more →]"
+            },
+            {
+              "lead": "Google Ads & Meta Ads",
+              "text": "Lead generation campaigns targeting buyers and sellers in specific geographic areas. [Learn more →]"
+            },
+            {
+              "lead": "Website Copywriting",
+              "text": "Clear, conversion-focused copy for agent websites, team sites, and property landing pages. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How We Help Real Estate Agents & Agencies",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We've built marketing for individual agents building their local brand and for larger real estate agencies looking to generate consistent inbound leads at scale. The strategy differs by business size and goal — we'll recommend the right combination of services based on your specific situation during a free consultation."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the most effective digital marketing channel for real estate?",
+              "a": "Local SEO and Google Ads tend to perform strongly for buyer and seller lead generation. Social media builds credibility and referral relationships. Most effective strategies combine all three in a coordinated approach."
+            },
+            {
+              "q": "How long does it take to see SEO results for real estate?",
+              "a": "Typically 3–6 months for meaningful organic ranking movement, depending on market competition. Paid ads can generate leads in the short term while SEO builds in the background."
+            },
+            {
+              "q": "Do you work with individual agents or only agencies?",
+              "a": "Both — we work with solo agents building their individual brand as well as multi-agent brokerages running team-wide marketing strategies."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Book a Free Real Estate Marketing Consultation",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book Your Free Consultation"
+        },
+        {
+          "type": "p",
+          "text": "→, Contact →"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

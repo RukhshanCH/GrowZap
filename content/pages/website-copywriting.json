@@ -1,0 +1,127 @@
+{
+  "slug": "website-copywriting",
+  "route": "/services/content-writing/website-copywriting",
+  "metaTitle": "Website Copywriting Services | SEO & Conversion Copywriting — GrowZap",
+  "metaDescription": "GrowZap writes website copy that gets found in search and convinces visitors",
+  "h1": "Website Copywriting Services — Words That Make Visitors Stay, Trust, and Buy",
+  "intro": [
+    "Most website design projects spend 90% of the budget on how the site looks and about 10% on what it actually says. The result is often a visually impressive website that doesn't convert because the copy doesn't clearly communicate value, address the visitor's concerns, or motivate them to take the next step. GrowZap's website copywriting service fixes that — writing that's optimized for both search and conversion, so your site does the work it was built to do."
+  ],
+  "heroCta": "Get a Free Copy Review",
+  "sections": [
+    {
+      "heading": "Why Website Copy Makes or Breaks Your Marketing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Your website is the central hub of every marketing channel you run — SEO, ads, social media, and email all drive traffic back to it. If visitors arrive and the copy doesn't speak clearly to their problem and why you're the right solution, all that marketing spend generates traffic without revenue. Strong website copy is the multiplier that makes every other marketing channel perform better."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Website Copywriting Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Homepage Copy",
+          "body": "Your homepage typically has the highest traffic and the widest audience intent — it needs to communicate who you are, what you do, and who you do it for within the first few seconds of someone arriving."
+        },
+        {
+          "title": "Service & Product Page Copy",
+          "body": "Service pages need to do more than list features — they need to explain benefits, address concerns, and persuade a visitor who's comparing you against alternatives to choose you."
+        },
+        {
+          "title": "About Us Page",
+          "body": "The About page is one of the most underestimated conversion pages on a website — it's often where visitors go to decide whether they trust you enough to reach out. We write About pages that build genuine connection rather than defaulting to generic \"our passionate team\" filler."
+        },
+        {
+          "title": "Landing Page Copy",
+          "body": "Landing pages designed to support paid ad campaigns or specific offers need tight, single-focused copy with a clear conversion goal — no distractions, no ambiguity about what the visitor should do next."
+        },
+        {
+          "title": "CTA & Microcopy",
+          "body": "Button text, form labels, error messages, and navigation labels are \"microcopy\" that collectively have a significant impact on conversion rate. We write these details with the same care as the main copy."
+        }
+      ]
+    },
+    {
+      "heading": "SEO Copywriting vs. Conversion Copywriting",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO copywriting optimizes content so search engines understand the page and rank it for relevant queries. Conversion copywriting uses proven persuasion principles to move readers toward a specific action. Neither works optimally without the other — SEO copy that doesn't convert wastes traffic; converting copy that can't be found by search wastes the website. We write for both simultaneously. [Learn more about On-Page SEO →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Website Copywriting Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Discovery",
+              "text": "We learn your business, audience, tone of voice, and conversion goals."
+            },
+            {
+              "lead": "Research",
+              "text": "We research your competitors, customer language, and keyword landscape."
+            },
+            {
+              "lead": "Drafting",
+              "text": "Full page-by-page copy written in your brand voice with SEO and conversion both in scope."
+            },
+            {
+              "lead": "Review",
+              "text": "You review and provide feedback — we typically allow two rounds of revisions."
+            },
+            {
+              "lead": "Delivery",
+              "text": "Final copy delivered in the format your web developer or CMS requires."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do you write copy for new websites or rewrites?",
+              "a": "Both — we work with businesses building their first site and those who already have a website but recognize the copy is underperforming."
+            },
+            {
+              "q": "Can you match our existing brand voice?",
+              "a": "Yes. If you have an established voice, we write within it. If you don't, we'll establish one as part of the project."
+            },
+            {
+              "q": "How long does a website copywriting project take?",
+              "a": "Timeline depends on scope — a 5-page site takes less time than a 20-page site. We'll confirm timelines during the initial brief."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Copy Review",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Send us your current website and we'll give you honest feedback on what's working and what isn't — at no cost."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Copy Review"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

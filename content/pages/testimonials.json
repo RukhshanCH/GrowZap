@@ -1,0 +1,63 @@
+{
+  "slug": "testimonials",
+  "route": "/testimonials",
+  "metaTitle": "Client Testimonials & Reviews | GrowZap Digital Marketing Agency",
+  "metaDescription": "See what GrowZap clients say about their experience — real testimonials",
+  "h1": "What Our Clients Say About Working With GrowZap",
+  "intro": [
+    "The most honest thing we can show you is what clients actually say after working with us — not what we say about ourselves."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "Client Success Stories",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "**[Client Name], [Business Type], [City/Region]**"
+        },
+        {
+          "type": "p",
+          "text": "\"[Real, verbatim testimonial — specific results mentioned where the client is comfortable sharing ⭐⭐⭐⭐⭐ them.]\" *(Repeat for each client. Where possible, include:)*"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "*Full name and business name (with permission)*"
+            },
+            {
+              "lead": null,
+              "text": "*Specific results they saw*"
+            },
+            {
+              "lead": null,
+              "text": "*Star rating*"
+            },
+            {
+              "lead": null,
+              "text": "*Photo or logo (with permission)*"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Verified Google Reviews",
+      "blocks": [],
+      "subsections": []
+    },
+    {
+      "heading": "Ready to See Results Like These?",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

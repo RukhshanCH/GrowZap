@@ -1,0 +1,83 @@
+{
+  "slug": "restaurants",
+  "route": "/industries/restaurants",
+  "metaTitle": "Restaurant Digital Marketing | Local SEO & Social Media — GrowZap",
+  "metaDescription": "GrowZap's restaurant marketing services boost your local search visibility,",
+  "h1": "Digital Marketing for Restaurants — More Reservations, More Walk-Ins, More Revenue",
+  "intro": [
+    "Restaurant decisions happen fast — a quick Google Maps search, a glance at reviews, and a look at your photos decides whether someone walks through your door or your competitor's. GrowZap's restaurant marketing services optimize every digital touchpoint that influences that moment, from your Google profile and local search rankings to the social media content that turns followers into regulars."
+  ],
+  "heroCta": "Get a Free Restaurant Marketing Audit",
+  "sections": [
+    {
+      "heading": "What Restaurant Marketing Looks Like in Practice",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Effective restaurant marketing combines local search visibility (so you show up when someone searches for \"restaurants near me\" or your cuisine type), an active social media presence that showcases food quality and atmosphere, and consistent review management that builds trust before a first visit."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Restaurants",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "Ranking in Google Maps and local search for dining-related queries in your area. [Learn more →]"
+            },
+            {
+              "lead": "Google Business Profile Management",
+              "text": "Photos, menu updates, posts, and review responses to maximize map pack presence."
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Food photography-driven Instagram and Facebook content that builds appetite and brand familiarity. [Learn more →]"
+            },
+            {
+              "lead": "Reels Creation",
+              "text": "Behind-the-scenes, chef content, and food prep Reels that drive organic reach and social sharing. [Learn more →]"
+            },
+            {
+              "lead": "Graphic Designing",
+              "text": "Digital menus, promotional graphics, and branded social content. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What social platform matters most for restaurants?",
+              "a": "Instagram is typically the highest-performing platform for restaurants due to the visual nature of food content, though Facebook still drives meaningful local reach especially for older demographics. TikTok is increasingly relevant for restaurants looking to reach younger audiences through Reels-format video."
+            },
+            {
+              "q": "How important is Google Business Profile for restaurants?",
+              "a": "Extremely — it's often the first thing a potential customer sees when searching for dining options, and photo quality, review rating, and response activity directly influence whether someone chooses your restaurant."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Restaurant Marketing Audit",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Get Your Free Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "seo-uae",
+  "route": "/locations/seo-agency-uae",
+  "metaTitle": "SEO Agency in UAE | Digital Marketing Services — GrowZap",
+  "metaDescription": "GrowZap is an SEO agency serving businesses across the UAE — Abu Dhabi,",
+  "h1": "SEO Agency in the UAE — Helping UAE Businesses Get Found and Grow Online",
+  "intro": [
+    "Whether you're based in Dubai, Abu Dhabi, Sharjah, or anywhere else across the UAE, GrowZap's SEO services are built to improve your visibility in Google and drive qualified traffic to your business."
+  ],
+  "heroCta": "Get a Free UAE SEO Consultation",
+  "sections": [
+    {
+      "heading": "Our SEO Services for UAE Businesses",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We offer the full range of SEO services to businesses operating in the UAE market:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "for UAE cities and service areas [Learn more →]"
+            },
+            {
+              "lead": "Technical SEO",
+              "text": "to resolve site-level ranking barriers [Learn more →]"
+            },
+            {
+              "lead": "On-Page SEO",
+              "text": "for key service and product pages [Learn more →]"
+            },
+            {
+              "lead": "Off-Page SEO",
+              "text": "and authority building in the UAE market [Learn more →]"
+            },
+            {
+              "lead": "SEO Content Writing",
+              "text": "in English and bilingual formats as needed [Learn more →]"
+            },
+            {
+              "lead": "SEO Audit",
+              "text": "free assessment of your current UAE search visibility [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Why UAE Businesses Choose GrowZap",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We combine a structured, data-driven SEO methodology with transparent reporting and a genuine understanding of the UAE's competitive digital landscape. We won't promise results we can't demonstrate — instead, we start every engagement with a free audit that establishes realistic expectations before any investment is made."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do you work with UAE businesses remotely?",
+              "a": "Yes — we work with UAE clients fully remotely, with communication via video calls, messaging, and regular reporting."
+            },
+            {
+              "q": "Which UAE cities do you serve?",
+              "a": "We serve businesses across the UAE, including Dubai, Abu Dhabi, Sharjah, Ajman, and Ras Al Khaimah."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free UAE SEO Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

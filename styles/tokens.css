@@ -1,0 +1,108 @@
+/* ==========================================================================
+   GrowZap Design Tokens
+   Derived from brand identity (growth-bar mark, blue → purple gradient)
+   and the GrowZap design-system foundations.
+   ========================================================================== */
+
+:root {
+  /* ---- Color: ink & text ---- */
+  --color-ink: #0a1f38;               /* primary heading / body ink, near logo navy */
+  --color-ink-soft: #16324f;
+  --color-text-primary: #111827;
+  --color-text-secondary: #4b5563;
+  --color-text-tertiary: #6b7280;
+  --color-text-on-dark: #eef1f8;
+  --color-text-on-dark-muted: #aab6cc;
+  --color-link: #2563eb;
+
+  /* ---- Color: brand palette (from Theme) ---- */
+  --color-blue-100: #e3e7f2;
+  --color-blue-300: #7ea8da;
+  --color-blue-500: #4275b2;
+  --color-blue-700: #235088;
+  --color-blue-900: #0a2447;
+
+  --color-purple-300: #998fc6;
+  --color-purple-500: #5c43a0;
+  --color-purple-700: #402d78;
+  --color-purple-900: #1b1534;
+
+  --color-rose-300: #e3bfc3;
+  --color-rose-500: #cfa3a9;
+
+  --gradient-brand: linear-gradient(120deg, var(--color-blue-500) 0%, var(--color-purple-500) 100%);
+  --gradient-brand-soft: linear-gradient(120deg, var(--color-blue-300) 0%, var(--color-purple-300) 100%);
+  --gradient-dark: linear-gradient(160deg, var(--color-purple-900) 0%, var(--color-blue-900) 100%);
+  --gradient-mist: linear-gradient(160deg, var(--color-blue-100) 0%, #ffffff 60%);
+
+  /* ---- Color: surfaces ---- */
+  --color-surface: #ffffff;
+  --color-surface-muted: #fafafa;
+  --color-surface-raised: #f3f4f6;
+  --color-surface-dark: var(--color-purple-900);
+  --color-border: #e5e7eb;
+  --color-border-on-dark: rgba(255, 255, 255, 0.14);
+
+  /* ---- Typography ---- */
+  --font-display: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
+
+  --fs-xs: 0.85rem;      /* 13.6px */
+  --fs-sm: 0.875rem;     /* 14px   */
+  --fs-md: 0.95rem;      /* 15.2px */
+  --fs-body: 1rem;       /* 16px   */
+  --fs-lg: 1.1rem;       /* 17.6px */
+  --fs-lead: clamp(1.05rem, 0.95rem + 0.4vw, 1.25rem);
+  --fs-eyebrow: 0.8rem;
+
+  --fs-h4: clamp(1.15rem, 1.05rem + 0.4vw, 1.4rem);
+  --fs-h3: clamp(1.4rem, 1.2rem + 0.8vw, 1.9rem);
+  --fs-h2: clamp(1.9rem, 1.5rem + 1.6vw, 2.75rem);
+  --fs-h1: clamp(2.4rem, 1.8rem + 2.6vw, 3.8rem);
+  --fs-display: clamp(2.75rem, 2rem + 3.2vw, 4.6rem);
+
+  --lh-tight: 1.12;
+  --lh-snug: 1.3;
+  --lh-body: 1.65;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* ---- Spacing scale ---- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 14px;
+  --space-5: 16px;
+  --space-6: 24px;
+  --space-7: 28px;
+  --space-8: 32px;
+  --space-9: 40px;
+  --space-10: 56px;
+  --space-11: 80px;
+  --space-12: 112px;
+
+  /* ---- Radius ---- */
+  --radius-xs: 8px;
+  --radius-sm: 16px;
+  --radius-md: 50px;
+  --radius-lg: 28px;
+
+  /* ---- Shadow ---- */
+  --shadow-1: rgba(10, 31, 56, 0.06) 0px 1px 2px 0px;
+  --shadow-2: rgba(10, 31, 56, 0.1) 0px 4px 6px -1px, rgba(10, 31, 56, 0.08) 0px 2px 4px -2px;
+  --shadow-brand: 0 20px 40px -16px rgba(66, 82, 178, 0.38);
+
+  /* ---- Motion ---- */
+  --motion-instant: 200ms;
+  --motion-fast: 300ms;
+  --motion-base: 450ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* ---- Layout ---- */
+  --container-max: 1220px;
+  --container-pad: clamp(20px, 5vw, 64px);
+  --header-height: 84px;
+}

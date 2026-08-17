@@ -1,0 +1,115 @@
+{
+  "slug": "contact",
+  "route": "/contact",
+  "metaTitle": "Contact GrowZap | Free Marketing Consultation",
+  "metaDescription": "Ready to grow your business online? Contact GrowZap for a free marketing",
+  "h1": "Contact GrowZap — Let's Talk About Your Business",
+  "intro": [
+    "No pressure. No confusing sales pitch. Just a real conversation about where your business is, where you want it to go, and whether GrowZap is the right partner to help you get there."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "Book a Free Consultation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The fastest way to get started is a free 30-minute consultation. We'll ask about your business, your goals, and your current marketing situation — and give you honest, specific feedback, even if that means telling you something you weren't expecting to hear."
+        },
+        {
+          "type": "p",
+          "text": "**[Book a Consultation →]** *(Link to calendar booking tool)*"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Send Us a Message",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Prefer to start with a message? Fill out the form below and we'll respond within one business day. *[Contact Form Fields:]*"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Name (required)"
+            },
+            {
+              "lead": null,
+              "text": "Business Name"
+            },
+            {
+              "lead": null,
+              "text": "Email (required)"
+            },
+            {
+              "lead": null,
+              "text": "Phone Number"
+            },
+            {
+              "lead": null,
+              "text": "Service(s) You're Interested In (dropdown: SEO / Google Ads / Meta Ads / Social Media / Content Writing / Graphic Design / Video / Reels / Full-Service / Not Sure)"
+            },
+            {
+              "lead": null,
+              "text": "Tell us about your business and goals (text area)"
+            },
+            {
+              "lead": null,
+              "text": "How did you hear about GrowZap?"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "label": "Submit"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Response Commitment",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We respond to every inquiry within **one business day** — typically sooner. You'll hear from a real member of our team, not an automated response, and we'll ask the follow-up questions needed to give you genuinely useful feedback rather than a generic pitch."
+        },
+        {
+          "type": "p",
+          "text": "**Contact Details:**"
+        },
+        {
+          "type": "p",
+          "text": "�� hello@growzap.llc �� growzap.llc �� Serving Colorado, Montana, UAE & Pakistan (remote-first team) �� Response within 1 business day"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions About Getting Started",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is the first consultation really free?",
+              "a": "Yes — completely. There's no obligation to work with us after the call, and we won't treat it as an excuse to pitch you services regardless of whether they're relevant to your situation."
+            },
+            {
+              "q": "What should I prepare before the consultation?",
+              "a": "Nothing formal is required. It helps to have a rough sense of your business goals and current marketing situation (what you're doing now, what's working, what isn't), but we'll guide the conversation if you're not sure where to start."
+            },
+            {
+              "q": "How quickly can you start if we decide to work together?",
+              "a": "Onboarding timelines vary by service, but most clients can begin within 1–2 weeks of signing, depending on information-gathering and any setup requirements."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

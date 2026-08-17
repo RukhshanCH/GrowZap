@@ -1,0 +1,103 @@
+/* ==========================================================================
+   Button block
+   ========================================================================== */
+
+.btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: 15px 28px;
+  border-radius: var(--radius-md);
+  border: 1px solid transparent;
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-semibold);
+  line-height: 1;
+  white-space: nowrap;
+  transition: transform var(--motion-instant) var(--ease-out),
+    box-shadow var(--motion-instant) var(--ease-out),
+    background var(--motion-instant) var(--ease-out),
+    border-color var(--motion-instant) var(--ease-out),
+    color var(--motion-instant) var(--ease-out);
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn:active {
+  transform: translateY(0);
+}
+
+.btn__icon {
+  display: inline-flex;
+  transition: transform var(--motion-fast) var(--ease-out);
+}
+
+.btn:hover .btn__icon {
+  transform: translateX(3px);
+}
+
+/* Primary: brand gradient */
+.btn--primary {
+  background: var(--gradient-brand);
+  color: #ffffff;
+  box-shadow: var(--shadow-brand);
+}
+
+.btn--primary:hover {
+  box-shadow: 0 24px 44px -16px rgba(66, 82, 178, 0.48);
+}
+
+/* Secondary: outlined on light */
+.btn--secondary {
+  background: transparent;
+  color: var(--color-ink);
+  border-color: var(--color-border);
+}
+
+.btn--secondary:hover {
+  border-color: var(--color-purple-500);
+  color: var(--color-purple-500);
+}
+
+/* On dark backgrounds */
+.btn--on-dark {
+  background: rgba(255, 255, 255, 0.06);
+  color: #ffffff;
+  border-color: var(--color-border-on-dark);
+  backdrop-filter: blur(6px);
+}
+
+.btn--on-dark:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Ghost: text only */
+.btn--ghost {
+  background: transparent;
+  color: var(--color-blue-700);
+  padding-inline: var(--space-2);
+}
+
+.btn--ghost:hover {
+  color: var(--color-purple-500);
+}
+
+.btn--block {
+  width: 100%;
+}
+
+.btn--sm {
+  padding: 11px 20px;
+  font-size: var(--fs-sm);
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "content-planning",
+  "route": "/services/social-media-management/content-planning",
+  "metaTitle": "Content Planning & Scheduling Services | GrowZap",
+  "metaDescription": "GrowZap builds and manages content calendars that keep your social media",
+  "h1": "Content Planning & Scheduling — A System That Keeps Your Content Consistent",
+  "intro": [
+    "The biggest reason most businesses fall off their content plans isn't lack of ideas — it's lack of system. GrowZap's content planning and scheduling service builds the structure that keeps your content consistent, relevant, and strategically aligned to your business goals, without you having to figure out what to post every single day."
+  ],
+  "heroCta": "Get Your Content Calendar Built",
+  "sections": [
+    {
+      "heading": "What Is Content Planning?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Content planning is the process of mapping out what content you'll create, on which platforms, when, and around which themes or business goals — typically organized into a content calendar. It removes the reactive scramble of \"what do we post today?\" and replaces it with a consistent, purposeful publishing rhythm that builds brand presence over time."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Content Planning Service",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Content Audit",
+              "text": "Review of existing content to identify gaps, top performers, and reusable assets."
+            },
+            {
+              "lead": "Content Calendar Build",
+              "text": "A populated, platform-specific content calendar covering a defined time period (typically monthly or quarterly)."
+            },
+            {
+              "lead": "Topic & Theme Planning",
+              "text": "Content themes mapped to your brand pillars, upcoming campaigns, seasonal moments, and business goals."
+            },
+            {
+              "lead": "Content Scheduling",
+              "text": "Content scheduled directly into your social platforms or content management system, eliminating manual posting."
+            },
+            {
+              "lead": "Repurposing Strategy",
+              "text": "A plan for turning one piece of content into multiple formats (blog post → social posts → short video → email), maximizing the return on each piece created."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Why Consistent Content Planning Matters",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Algorithms on most social platforms favor consistency — accounts that publish regularly and predictably tend to see better organic reach than those that post in bursts followed by long gaps. More importantly, consistent content builds trust with your audience. People buy from brands they feel they know, and regular content is one of the most effective ways to build that familiarity over time."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Content Planning Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Onboarding & Goal Setting",
+              "text": "We clarify your content goals, target audience, and upcoming business priorities."
+            },
+            {
+              "lead": "Calendar Build",
+              "text": "We map out content themes, topics, and formats across your platforms."
+            },
+            {
+              "lead": "Review & Approval",
+              "text": "You review the plan before anything is scheduled."
+            },
+            {
+              "lead": "Scheduling",
+              "text": "Approved content is scheduled directly into your platforms."
+            },
+            {
+              "lead": "Monthly Refresh",
+              "text": "We update the calendar monthly based on what's performing and what's coming up in your business."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is content planning the same as social media management?",
+              "a": "Content planning is one component of social media management — it covers what and when, but not creation or community management. Some clients want planning and scheduling handled but manage their own content creation; others want full management. We offer both approaches. [Learn more about Social Media Management →]"
+            },
+            {
+              "q": "Can you plan content for both social media and blogs?",
+              "a": "Yes — we plan content across all channels, including blogs and email, so your messaging stays consistent across every touchpoint."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get Your Content Calendar Built",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        },
+        {
+          "type": "p",
+          "text": "Contact →"
+        },
+        {
+          "type": "p",
+          "text": "# GrowZap — New Service Pages (Batch 2)"
+        },
+        {
+          "type": "p",
+          "text": "## Blog Writing | Website Copywriting | Reels Creation | SEO Audit | Keyword Research"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

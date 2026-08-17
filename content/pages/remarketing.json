@@ -1,0 +1,133 @@
+{
+  "slug": "remarketing",
+  "route": "/services/google-ads/remarketing",
+  "metaTitle": "Remarketing Campaign Services | Google & Meta Retargeting — GrowZap",
+  "metaDescription": "GrowZap sets up and manages remarketing campaigns on Google and Meta",
+  "h1": "Remarketing Campaigns — Re-Engage Visitors Who Didn't Convert the First Time",
+  "intro": [
+    "Most people who visit your website for the first time don't convert — that's normal. Remarketing is how you stay in front of those visitors after they leave, so your brand is what they think of when they're ready to take action. GrowZap's remarketing campaign management sets up and runs retargeting on Google and Meta, turning previously warm visitors into future customers."
+  ],
+  "heroCta": "Talk to Us About Remarketing",
+  "sections": [
+    {
+      "heading": "What Is Remarketing?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Remarketing (also called retargeting) is a type of paid advertising that shows ads specifically to people who have already visited your website, engaged with your app, or interacted with your content — rather than showing ads to a cold, untargeted audience. Because these people already have some familiarity with your brand, remarketing campaigns typically perform at a lower cost-per-conversion than prospecting campaigns targeting people who've never encountered you before."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Why Remarketing Works",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The simple reason remarketing is effective: people who've already visited your site are much further along in their consideration process than someone seeing your brand for the first time. They already know what you offer — remarketing gives them a timely, relevant reason to come back and complete the action they didn't take on their first visit."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Remarketing Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Audience List Building",
+          "body": "We configure your tracking pixel (Google Tag, Meta Pixel, or Conversion API) and build audience segments — different lists for homepage visitors, product page visitors, blog readers, and cart abandoners, so ads are relevant to where each person is in the customer journey."
+        },
+        {
+          "title": "Ad Creative for Remarketing",
+          "body": "Remarketing creative needs to address why someone left without converting — whether that's a specific offer, a reminder, social proof, or urgency. We develop copy and visual creative appropriate to each audience segment."
+        },
+        {
+          "title": "Platform Setup (Google & Meta)",
+          "body": "We manage remarketing across both Google Display Network and Meta (Facebook/Instagram) depending on where your audience is most active."
+        },
+        {
+          "title": "Frequency & Sequencing Strategy",
+          "body": "We manage ad frequency carefully — too many impressions to the same person creates ad fatigue and negative brand association. We set frequency caps and, where relevant, build sequenced ad experiences that tell a story over multiple impressions."
+        },
+        {
+          "title": "Reporting & Optimization",
+          "body": "We report on performance by audience segment, so you can see which groups are converting and at what cost, and continuously optimize creative and targeting based on real data."
+        }
+      ]
+    },
+    {
+      "heading": "Remarketing vs. Prospecting — What's the Difference?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Prospecting campaigns target new audiences who haven't encountered your brand yet — the top of the funnel. Remarketing targets people already familiar with you — further down the funnel, closer to a decision. Most effective paid advertising strategies use both: prospecting to build a pipeline of new visitors, remarketing to convert them efficiently. [Learn more about PPC Campaign Management →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Remarketing Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Pixel & Tracking Audit",
+              "text": "We verify or install the tracking infrastructure needed for audience list building."
+            },
+            {
+              "lead": "Audience Segmentation",
+              "text": "We build audience lists mapped to meaningful stages of the customer journey."
+            },
+            {
+              "lead": "Creative Development",
+              "text": "We develop ad creative appropriate to each audience segment."
+            },
+            {
+              "lead": "Campaign Launch",
+              "text": "Remarketing campaigns go live with frequency caps and proper audience exclusions in place."
+            },
+            {
+              "lead": "Optimization & Reporting",
+              "text": "Ongoing optimization and clear, outcome-focused reporting."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is remarketing creepy or too aggressive for my brand?",
+              "a": "Done poorly, yes — showing the same ad to someone 50 times in a week creates a negative impression. Done well, with appropriate frequency caps and relevant creative, most users find it helpful rather than intrusive. Frequency management is a core part of our setup."
+            },
+            {
+              "q": "How big does my audience need to be for remarketing to work?",
+              "a": "Platforms like Google and Meta require minimum audience sizes before remarketing ads can serve — typically a few hundred to a few thousand visitors per month. We'll confirm whether your current traffic volume supports remarketing during the initial review."
+            },
+            {
+              "q": "Can remarketing help with cart abandonment for ecommerce?",
+              "a": "Yes — abandoned cart remarketing is one of the highest-ROI applications of this tactic and is available on both Google and Meta."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Add Remarketing to Your Ad Strategy",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

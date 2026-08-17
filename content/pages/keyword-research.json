@@ -1,0 +1,150 @@
+{
+  "slug": "keyword-research",
+  "route": "/services/seo/keyword-research",
+  "metaTitle": "Keyword Research & Competitor Analysis Services — GrowZap",
+  "metaDescription": "GrowZap's keyword research service identifies the exact terms your",
+  "h1": "Keyword Research & Competitor Analysis — Find What Your Customers Are Actually",
+  "intro": [
+    "Searching Every effective SEO strategy starts with one thing: knowing which search terms your customers actually use, how competitive they are, and what content Google is currently rewarding for each. GrowZap's keyword research and competitor analysis service gives you that foundation — a prioritized, intent-mapped keyword strategy built around your specific business, industry, and market position."
+  ],
+  "heroCta": "Get a Keyword Research Report",
+  "sections": [
+    {
+      "heading": "What Is Keyword Research?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Keyword research is the process of identifying the specific words and phrases your target customers type into search engines, then evaluating each term by search volume (how many people search it), keyword difficulty (how hard it is to rank for), and search intent (what the person searching actually wants to find). The output is a prioritized list of keyword targets that your SEO strategy — content, on-page optimization, and link building — can be built around."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What Is Competitor Keyword Analysis?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Competitor keyword analysis is the process of identifying which keywords your competitors are ranking for (and you're not), which ones you share, and where the most accessible gaps and opportunities exist in your competitive landscape. It's one of the fastest ways to identify both what's working in your market and where you can realistically compete with your current site authority."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Keyword Research Service",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Seed Keyword Generation",
+              "text": "We start with your core services and audience to build an initial list of relevant topic areas."
+            },
+            {
+              "lead": "Full Keyword Expansion",
+              "text": "Using professional SEO tools, we expand the seed list into a comprehensive keyword set including variants, long-tails, and question-based queries."
+            },
+            {
+              "lead": "Search Intent Classification",
+              "text": "Every keyword is mapped to intent — informational, navigational, commercial, or transactional — so your content strategy matches what searchers actually want at each stage."
+            },
+            {
+              "lead": "Keyword Difficulty & Volume Analysis",
+              "text": "We identify which terms are realistically achievable given your current authority vs. which require long-term investment."
+            },
+            {
+              "lead": "Keyword Clustering",
+              "text": "Keywords are grouped by topic and page rather than treated as an undifferentiated list, so the output maps directly to your site structure and content plan."
+            },
+            {
+              "lead": "Competitor Keyword Gap Report",
+              "text": "We compare your current rankings against top competitors and highlight the highest-value terms they rank for that you don't."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Why Keyword Research Comes Before Everything Else in SEO",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Producing content without keyword research is a common mistake — resulting in pages that cover topics your customers never search, targeting terms that are too competitive for your site's current authority, or missing the actual words people use to find what you offer. Keyword research done correctly becomes the blueprint that every other SEO decision — content, internal linking, page structure — is built from. [Learn more about SEO Services →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Keyword Research Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Business Discovery",
+              "text": "We learn your services, target audience, geographic focus, and competitors."
+            },
+            {
+              "lead": "Keyword Research",
+              "text": "Full expansion and analysis using professional-grade SEO tools."
+            },
+            {
+              "lead": "Competitor Analysis",
+              "text": "Competitor keyword gap and SERP analysis."
+            },
+            {
+              "lead": "Report Build",
+              "text": "A structured keyword report organized by topic cluster, search intent, and priority."
+            },
+            {
+              "lead": "Strategy Session",
+              "text": "We walk through the findings and recommend a content and optimization roadmap."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Can I do keyword research myself with free tools?",
+              "a": "Yes — tools like Google Keyword Planner, Ubersuggest, and Google's autocomplete provide useful starting data. The limitation is that free tools typically lack competitor analysis features, precise difficulty scoring, and the intent-mapping layer that professional research includes."
+            },
+            {
+              "q": "How often should keyword research be updated?",
+              "a": "We recommend revisiting your keyword strategy at least annually, or whenever your services, target audience, or market position changes significantly. Search behavior does shift over time, especially in response to industry events or algorithm updates."
+            },
+            {
+              "q": "What's the difference between short-tail and long-tail keywords?",
+              "a": "Short-tail keywords are broad, high-volume terms (\"digital marketing agency\") that are typically very competitive. Long-tail keywords are more specific, lower-volume phrases (\"affordable digital marketing agency for small business Colorado\") that are often easier to rank for and attract more targeted traffic."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Keyword Research Report for Your Business",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Request a Keyword Research Report"
+        },
+        {
+          "type": "p",
+          "text": "# GrowZap — Industry Pages (All 7)"
+        },
+        {
+          "type": "p",
+          "text": "## Real Estate | Healthcare | E-commerce | Law Firm | Home Services | Restaurant | Startups & Small Business"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

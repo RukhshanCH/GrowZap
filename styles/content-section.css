@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Content section block (generic templated page sections)
+   ========================================================================== */
+
+.content-section__heading {
+  font-size: var(--fs-h2);
+  max-width: 44ch;
+}
+
+.content-section__body {
+  margin-top: var(--space-7);
+}
+
+.content-section__subsections {
+  margin-top: var(--space-7);
+}
+
+.content-section__body > .prose__p:first-child,
+.content-section__body > .feature-list:first-child {
+  margin-top: 0;
+}

@@ -1,0 +1,102 @@
+/* ==========================================================================
+   Pricing page: tier cards
+   ========================================================================== */
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-6);
+  align-items: stretch;
+}
+
+.pricing-tier {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-8);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  transition: transform var(--motion-fast) var(--ease-out), box-shadow var(--motion-fast) var(--ease-out);
+}
+
+.pricing-tier:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-2);
+}
+
+.pricing-tier--featured {
+  border-color: var(--color-purple-500);
+  background: linear-gradient(180deg, rgba(153, 143, 198, 0.06), transparent 40%);
+  position: relative;
+}
+
+.pricing-tier__badge {
+  position: absolute;
+  top: -13px;
+  left: var(--space-8);
+  background: var(--gradient-brand);
+  color: #fff;
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-semibold);
+  padding: 4px 14px;
+  border-radius: var(--radius-md);
+}
+
+.pricing-tier__name {
+  font-size: var(--fs-h3);
+}
+
+.pricing-tier__price {
+  margin-top: var(--space-3);
+  font-family: var(--font-body);
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-semibold);
+  color: var(--color-purple-500);
+}
+
+.pricing-tier__for {
+  margin-top: var(--space-5);
+  color: var(--color-text-secondary);
+  font-size: var(--fs-md);
+  line-height: var(--lh-body);
+}
+
+.pricing-tier__includes {
+  margin-top: var(--space-5);
+  list-style: none;
+  display: grid;
+  gap: var(--space-3);
+  flex: 1;
+}
+
+.pricing-tier__includes li {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  font-size: var(--fs-sm);
+  color: var(--color-text-secondary);
+}
+
+.pricing-tier__includes li::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  margin-top: 7px;
+  border-radius: 50%;
+  background: var(--gradient-brand);
+  flex-shrink: 0;
+}
+
+.pricing-tier__cta {
+  margin-top: var(--space-7);
+}
+
+.pricing-note {
+  margin-top: var(--space-8);
+  padding: var(--space-5) var(--space-6);
+  background: var(--color-surface-raised);
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-sm);
+  color: var(--color-text-secondary);
+  max-width: 60ch;
+}

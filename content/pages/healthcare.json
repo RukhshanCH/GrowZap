@@ -1,0 +1,83 @@
+{
+  "slug": "healthcare",
+  "route": "/industries/healthcare",
+  "metaTitle": "Healthcare Digital Marketing | Medical Practice SEO & Ads — GrowZap",
+  "metaDescription": "GrowZap's healthcare marketing services help medical practices rank locally,",
+  "h1": "Digital Marketing for Healthcare — Attract More Patients, Build Trust Online",
+  "intro": [
+    "Patients searching for medical care apply a high level of scrutiny before choosing a provider. GrowZap's healthcare marketing services help medical practices, clinics, and health & wellness businesses show up in local search, build credibility through accurate content, and attract the right patients with a clear, trustworthy digital presence."
+  ],
+  "heroCta": "Book a Free Healthcare Marketing Consultation",
+  "sections": [
+    {
+      "heading": "Why Healthcare Businesses Need Specialist Digital Marketing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Healthcare content is subject to higher accuracy expectations than most industries — Google's systems apply extra scrutiny to medical and health content under its quality guidelines, meaning low-quality or inaccurate content can actively harm rather than help your search visibility. We write healthcare content carefully, based on accurate clinical information and a conservative approach to health claims. Beyond content, local search visibility is critical — patients typically search for providers near them, making Google Business Profile optimization and local SEO among the highest-ROI channels for healthcare practices."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Healthcare",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "Ranking in local search for your specialty, location, and patient queries. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Accurate, patient-friendly health content that builds authority and answers patient questions without making unsubstantiated medical claims. [Learn more →]"
+            },
+            {
+              "lead": "Google Ads",
+              "text": "Patient acquisition campaigns targeting specific service lines and geographic areas. [Learn more →]"
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Educational, trustworthy social content appropriate to a medical brand. [Learn more →]"
+            },
+            {
+              "lead": "Website Copywriting",
+              "text": "Clear, compassionate copy that helps patients understand your services and feel confident reaching out. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How does digital marketing for healthcare differ from other industries?",
+              "a": "Healthcare marketing requires particular accuracy in content claims, sensitivity around patient privacy, and an understanding of how Google evaluates Your Money or Your Life (YMYL) content. We apply a more conservative, accuracy-first approach to healthcare content as a result."
+            },
+            {
+              "q": "Can you help a practice increase patient bookings through online marketing?",
+              "a": "Yes — local SEO, Google Ads, and a well-optimized website collectively create a patient acquisition system. The specific channels we recommend depend on your practice type and current digital presence."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Book a Free Healthcare Marketing Consultation",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book Your Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

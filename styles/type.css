@@ -1,0 +1,104 @@
+/* ==========================================================================
+   Shared type treatments — reused across many blocks, so kept as their own
+   small BEM blocks rather than duplicated per-component.
+   ========================================================================== */
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: var(--fw-semibold);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-purple-500);
+}
+
+.eyebrow::before {
+  content: "";
+  width: 18px;
+  height: 2px;
+  background: var(--gradient-brand);
+  border-radius: 2px;
+}
+
+.eyebrow--on-dark {
+  color: var(--color-blue-300);
+}
+
+.lead {
+  font-size: var(--fs-lead);
+  color: var(--color-text-secondary);
+  line-height: var(--lh-snug);
+  max-width: 62ch;
+}
+
+.section--dark .lead {
+  color: var(--color-text-on-dark-muted);
+}
+
+/* Prose: long-form body copy blocks parsed from page content */
+.prose {
+  max-width: 74ch;
+  color: var(--color-text-secondary);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+}
+
+.prose > * + * {
+  margin-top: var(--space-5);
+}
+
+.prose strong {
+  color: var(--color-text-primary);
+  font-weight: var(--fw-semibold);
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.3em;
+}
+
+.prose ul {
+  list-style: none;
+}
+
+.prose ul li {
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.prose ul li + li {
+  margin-top: var(--space-3);
+}
+
+.prose ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--gradient-brand);
+}
+
+.prose ol {
+  list-style: decimal;
+}
+
+.prose ol li + li {
+  margin-top: var(--space-3);
+}
+
+.prose a {
+  color: var(--color-link);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--color-blue-300);
+}
+
+.prose a:hover {
+  text-decoration-color: currentColor;
+}

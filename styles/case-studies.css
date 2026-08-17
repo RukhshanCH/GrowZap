@@ -1,0 +1,83 @@
+/* ==========================================================================
+   Case studies & testimonials: honest "coming soon" framing
+   ========================================================================== */
+
+.methodology-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+}
+
+.methodology-card {
+  padding: var(--space-7);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+}
+
+.methodology-card__index {
+  font-family: var(--font-display);
+  font-size: var(--fs-h3);
+  background: var(--gradient-brand);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.methodology-card__title {
+  margin-top: var(--space-3);
+  font-size: var(--fs-h4);
+}
+
+.methodology-card__body {
+  margin-top: var(--space-3);
+  color: var(--color-text-secondary);
+  font-size: var(--fs-md);
+  line-height: var(--lh-body);
+}
+
+.coming-soon {
+  padding: var(--space-9);
+  text-align: center;
+  background: var(--color-surface-raised);
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-lg);
+  max-width: 620px;
+  margin-inline: auto;
+}
+
+.coming-soon__title {
+  font-size: var(--fs-h3);
+}
+
+.coming-soon__body {
+  margin-top: var(--space-4);
+  color: var(--color-text-secondary);
+  line-height: var(--lh-body);
+}
+
+.review-badge-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  margin-top: var(--space-6);
+}
+
+.review-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-5);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--fs-sm);
+  color: var(--color-text-secondary);
+}
+
+@media (max-width: 860px) {
+  .methodology-grid {
+    grid-template-columns: 1fr;
+  }
+}

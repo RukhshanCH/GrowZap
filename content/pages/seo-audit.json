@@ -1,0 +1,187 @@
+{
+  "slug": "seo-audit",
+  "route": "/services/seo/audit",
+  "metaTitle": "SEO Audit Services | Website SEO Health Check — GrowZap",
+  "metaDescription": "GrowZap's SEO audit identifies the technical, content, and backlink issues",
+  "h1": "SEO Audit Services — Find Out Exactly What's Holding Your Website Back",
+  "intro": [
+    "Before you invest in SEO, you need to understand your site's current state — what's working, what's broken, and what's limiting your rankings. GrowZap's SEO audit gives you a clear, prioritized breakdown of every factor affecting your search visibility, with actionable recommendations rather than a data dump you can't act on."
+  ],
+  "heroCta": "Request Your Free SEO Audit",
+  "sections": [
+    {
+      "heading": "What Is an SEO Audit?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An SEO audit is a comprehensive review of your website's search engine performance across three areas: technical health (how well Google can access and understand your site), on-page optimization (how well individual pages are structured and written), and off-page authority (the quality and quantity of external links pointing to your site). The output is a prioritized list of issues and opportunities — what to fix first, what to improve, and where growth potential exists."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Covered in Our SEO Audit",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Technical SEO Review",
+          "body": "We check site speed, mobile usability, crawlability, indexing status, Core Web Vitals, XML sitemap configuration, and structured data implementation — the infrastructure that determines whether Google can properly access and rank your pages. [Learn more about Technical SEO →]"
+        },
+        {
+          "title": "On-Page SEO Review",
+          "body": "We review title tags, meta descriptions, heading structure, internal linking, content quality, keyword optimization, and page-level relevance signals across your key pages. [Learn more about On-Page SEO →]"
+        },
+        {
+          "title": "Content Analysis",
+          "body": "We identify thin or duplicate content, content gaps relative to competitors, and pages with strong traffic potential that aren't yet optimized for their best-performing queries."
+        },
+        {
+          "title": "Backlink Profile Review",
+          "body": "We assess the quality, relevance, and diversity of your existing backlinks, and flag any potentially toxic links that may be harming rather than helping your authority. [Learn more about Off-Page SEO →]"
+        },
+        {
+          "title": "Competitor Benchmark",
+          "body": "We compare your site's visibility, authority, and content coverage against your top competitors to identify where the highest-value opportunities sit relative to your market position."
+        }
+      ]
+    },
+    {
+      "heading": "What You Get After the Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Not a 100-page automated report that lists every issue without context — we provide a clear, human-reviewed summary covering:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Priority issues (fix these first — they're actively limiting performance)"
+            },
+            {
+              "lead": null,
+              "text": "Improvement opportunities (these will meaningfully lift rankings)"
+            },
+            {
+              "lead": null,
+              "text": "Content gaps and keyword opportunities"
+            },
+            {
+              "lead": null,
+              "text": "A recommended order of implementation based on impact vs. effort"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Who Needs an SEO Audit?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An SEO audit is valuable if you're:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Starting an SEO campaign and don't know your site's baseline"
+            },
+            {
+              "lead": null,
+              "text": "Experiencing declining rankings without a clear reason"
+            },
+            {
+              "lead": null,
+              "text": "Launching a new website or migrating from an existing one"
+            },
+            {
+              "lead": null,
+              "text": "Wondering whether your current SEO investment is actually being applied correctly"
+            },
+            {
+              "lead": null,
+              "text": "Comparing your site's performance against competitors"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our SEO Audit Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Information Gathering",
+              "text": "We collect access to your Google Search Console, Analytics, and any existing SEO data."
+            },
+            {
+              "lead": "Crawl & Review",
+              "text": "Technical crawl plus manual review of key pages, content, and backlinks."
+            },
+            {
+              "lead": "Competitor Benchmark",
+              "text": "Your top organic competitors are reviewed alongside your site."
+            },
+            {
+              "lead": "Audit Report & Action Plan",
+              "text": "A clear, prioritized document with plain-language explanations of each issue."
+            },
+            {
+              "lead": "Walkthrough Call",
+              "text": "We walk you through the audit findings and answer questions before recommending next steps."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is the SEO audit really free?",
+              "a": "We offer a free foundational SEO audit covering the most critical technical and on-page issues. Larger sites or audits requiring deeper backlink analysis may involve a fee — we'll confirm scope and any cost during the initial discussion."
+            },
+            {
+              "q": "How long does an SEO audit take?",
+              "a": "A standard audit for a small-to-medium website typically takes 5–7 business days, depending on the size and complexity of the site."
+            },
+            {
+              "q": "Will the audit tell me exactly why my rankings dropped?",
+              "a": "An audit identifies likely causes for ranking drops — algorithm updates, technical issues, content problems, or lost backlinks — though confirming the exact cause sometimes requires correlating audit findings with the specific timeline of the decline."
+            },
+            {
+              "q": "Can I do an SEO audit myself?",
+              "a": "Tools like Google Search Console and Screaming Frog can surface many technical issues, but interpreting what to prioritize, identifying content-level problems, and conducting a proper backlink audit typically requires both expertise and specialized tool access."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Request Your Free SEO Audit",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Get Your Free SEO Audit"
+        },
+        {
+          "type": "p",
+          "text": "→"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

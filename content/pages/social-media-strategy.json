@@ -1,0 +1,123 @@
+{
+  "slug": "social-media-strategy",
+  "route": "/services/social-media-management/strategy",
+  "metaTitle": "Social Media Strategy Services | GrowZap Marketing Agency",
+  "metaDescription": "GrowZap builds social media strategies that define what to post, where to",
+  "h1": "Social Media Strategy — A Clear Plan for How Your Brand Shows Up Online",
+  "intro": [
+    "Posting consistently on social media without a strategy behind it is like building a house without a blueprint. You can do it, but the results are unpredictable and often unsatisfying. GrowZap's social media strategy service gives your brand a documented, actionable plan — what platforms to be on, what content pillars to own, how to speak to your audience, and how to measure whether any of it is working."
+  ],
+  "heroCta": "Get a Free Social Media Strategy Consultation",
+  "sections": [
+    {
+      "heading": "What Is a Social Media Strategy?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A social media strategy is a documented plan that defines your goals on social platforms, your target audience on each platform, the types of content you'll create, how often you'll publish, and how you'll measure success. It's the difference between reactive posting (publishing when you have something to say) and strategic presence (a consistent brand that builds authority over time)."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Social Media Strategy Service",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Platform Audit & Recommendations",
+          "body": "Not every business needs to be on every platform. We audit your current social presence and recommend where to focus based on your audience demographics and content capabilities."
+        },
+        {
+          "title": "Audience & Competitor Research",
+          "body": "We analyze who your ideal customer is on each platform and review what's working for competitors in your space — not to copy, but to understand the landscape you're operating in."
+        },
+        {
+          "title": "Content Pillars & Brand Voice",
+          "body": "We establish 3–5 content pillars — repeatable themes that your social content consistently returns to — and document a brand voice guide so content stays consistent regardless of who creates it."
+        },
+        {
+          "title": "Content Calendar Framework",
+          "body": "We build a practical content calendar structure showing posting frequency, content types per pillar, and a workflow for content creation and approval."
+        },
+        {
+          "title": "KPIs & Success Metrics",
+          "body": "We define what success looks like for your specific goals — whether that's reach, engagement, follower growth, or website traffic — so progress is measured against outcomes you actually care about."
+        }
+      ]
+    },
+    {
+      "heading": "Strategy-Only vs. Full Management",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Some businesses want a strategy they can hand to an internal team to execute. Others want us to both build the strategy and manage ongoing execution. We offer both. If you have an internal team ready to implement, we can deliver a complete social media strategy document for them to follow. If you need full execution, our Social Media Management service handles everything from content creation to posting and community management. [Learn more about Social Media Management →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Social Media Strategy Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Discovery Call",
+              "text": "We learn your business, goals, target audience, and current social presence."
+            },
+            {
+              "lead": "Research Phase",
+              "text": "Audience research, platform analysis, and competitor review."
+            },
+            {
+              "lead": "Strategy Development",
+              "text": "We build the full strategy document: platforms, content pillars, voice, calendar framework, and KPIs."
+            },
+            {
+              "lead": "Presentation & Refinement",
+              "text": "We walk you through the strategy and refine based on your input."
+            },
+            {
+              "lead": "Handoff or Integration",
+              "text": "Strategy is handed off to your team, or integrated into our ongoing social media management."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do I need a social media strategy if I'm already posting consistently?",
+              "a": "Consistency is valuable, but strategy determines whether what you're posting is actually moving toward your business goals. If you're not sure your content is building audience or driving results, a strategy review often reveals significant opportunities."
+            },
+            {
+              "q": "Can you build a strategy for a brand that's just starting social media from scratch?",
+              "a": "Yes — we frequently build strategies for businesses setting up their social presence for the first time, including platform selection recommendations for those starting with no existing presence."
+            },
+            {
+              "q": "Does the strategy work for all social platforms?",
+              "a": "We tailor the strategy to the specific platforms relevant to your business — LinkedIn, Instagram, Facebook, TikTok — rather than applying a generic plan that ignores platform differences."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Build a Social Media Strategy That Actually Works",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

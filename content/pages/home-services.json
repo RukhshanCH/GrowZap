@@ -1,0 +1,83 @@
+{
+  "slug": "home-services",
+  "route": "/industries/home-services",
+  "metaTitle": "Home Services Digital Marketing | Local SEO & Ads for Contractors — GrowZap",
+  "metaDescription": "GrowZap's home services marketing helps plumbers, HVAC companies,",
+  "h1": "Digital Marketing for Home Services — Get More Local Calls and Service Bookings",
+  "intro": [
+    "Home services businesses live and die on local visibility. When a pipe bursts or an HVAC unit fails, people search, pick from the first three results, and call. GrowZap's home services marketing strategy makes sure your business is one of the three they find — and that your website and listing give them every reason to call you first."
+  ],
+  "heroCta": "Get a Free Home Services Marketing Audit",
+  "sections": [
+    {
+      "heading": "Why Local Search Is Everything for Home Service Businesses",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "\"Near me\" searches are among the most commercially intent searches in any industry — someone searching \"emergency plumber near me\" is ready to book in the next hour. Unlike many industries where content marketing and brand building drive the sales cycle, home services marketing is often won or lost at the moment of urgent local search, making local SEO and Google Business Profile optimization the highest-priority channels."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Home Services",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "Map pack rankings for your service area, service-type searches, and emergency queries. [Learn more →]"
+            },
+            {
+              "lead": "Google Ads & Local Services Ads",
+              "text": "Top-of-page visibility for high-intent searches with pay-per-lead options available through Google's Local Services Ads program. [Learn more →]"
+            },
+            {
+              "lead": "Google Business Profile Optimization",
+              "text": "Reviews, categories, photos, and regular posting managed to maximize map pack performance."
+            },
+            {
+              "lead": "Website Copywriting",
+              "text": "Clear, trust-building copy that quickly answers \"can you help me?\" and makes calling easy on mobile. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Seasonal and educational content that builds organic traffic for how-to and maintenance queries. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is Local Services Ads (LSA) different from regular Google Ads?",
+              "a": "Yes — Google Local Services Ads appear above regular search results and pay per lead (phone call or message) rather than per click, with a Google Guarantee badge available to verified businesses. We can manage both LSA and traditional Google Ads depending on your goals."
+            },
+            {
+              "q": "How important are online reviews for home services?",
+              "a": "Very — for most home service businesses, review quantity and rating directly affect both local pack rankings and consumer trust at the point of decision. We include review generation strategy as part of local SEO."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Home Services Marketing Audit",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Get Your Free Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

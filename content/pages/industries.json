@@ -1,0 +1,87 @@
+{
+  "slug": "industries",
+  "route": "/industries",
+  "metaTitle": "Industries We Serve | GrowZap Digital Marketing Agency",
+  "metaDescription": "GrowZap provides digital marketing for home services, healthcare, ecommerce, professional services,",
+  "h1": "Industries We Serve",
+  "intro": [
+    "Marketing strategy isn't one-size-fits-all — what works for an ecommerce brand looks very different from what works for a local home services company. Here's how we approach the industries we work with most."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "Home Services",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Contractors, cleaners, HVAC, plumbing, and similar service-area businesses typically see the strongest results from local SEO and Google Ads, since customers are usually searching with immediate, location-specific intent."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Healthcare & Wellness",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Healthcare marketing requires particular care around accuracy and compliance. We focus on clear, trustworthy content and local visibility for practices serving a defined patient area."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Ecommerce & Retail",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ecommerce businesses benefit from a combination of ecommerce-specific SEO, Meta Ads for product discovery, and Google Shopping campaigns aligned to ready-to-buy search intent."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Professional Services",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Law firms, accounting practices, consultants, and similar businesses often see strong results from content marketing and SEO that builds authority and trust over time, paired with targeted local search visibility."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Real Estate",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Real estate marketing benefits from a mix of local SEO, social media presence, and visual content (photography and video) that showcases listings and builds agent or brokerage credibility."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Hospitality & Restaurants",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Restaurants and hospitality businesses typically see strong returns from local SEO, Google Business Profile optimization, and visually-driven social media content."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Don't See Your Industry?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We work with businesses across many industries beyond those listed here. If your industry isn't above, that doesn't mean we can't help — reach out and we'll talk through your specific situation."
+        },
+        {
+          "type": "cta",
+          "label": "Talk to Us About Your Industry"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

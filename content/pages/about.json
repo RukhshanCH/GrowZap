@@ -1,0 +1,79 @@
+{
+  "slug": "about",
+  "route": "/about",
+  "metaTitle": "About GrowZap | Full-Service Digital Marketing Agency",
+  "metaDescription": "Learn about GrowZap, a full-service digital marketing agency built around transparency, real results,",
+  "h1": "About GrowZap — A Full-Service Digital Marketing Agency Built on Results",
+  "intro": [
+    "GrowZap exists because too many small businesses have been burned by marketing agencies that overpromise, under-deliver, and disappear behind confusing reports. We built GrowZap as a full-service digital marketing agency that does the opposite: clear strategy, honest communication, and accountability for real business outcomes — not just vanity metrics."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "Why We Started GrowZap",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GrowZap started in Colorado and Montana with a simple observation: small businesses were being sold the same generic marketing packages as everyone else, regardless of whether those packages actually fit their goals, budget, or industry. We built our agency around the alternative — strategy built for the specific business in front of us, not a templated package resold at scale."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How We Work",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We operate as an extension of your team, not a black-box vendor. That means:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Direct access to the people doing the work",
+              "text": "not a single point of contact who relays information from an unseen team."
+            },
+            {
+              "lead": "Plain-language reporting",
+              "text": "every report explains what we did, why, and what it produced, without requiring a marketing degree to interpret."
+            },
+            {
+              "lead": "Strategy before tactics",
+              "text": "we don't recommend a service because it's something we sell; we recommend it because the data and your goals point to it."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Approach to Marketing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We believe in compounding, connected marketing — meaning your SEO, content, ads, and social media all inform each other instead of operating in separate silos run by disconnected teams. This is why we operate as a full-service agency rather than a single-channel specialist: real growth usually comes from multiple channels reinforcing each other, not one tactic in isolation. We're also honest about what marketing can and can't do. We won't promise guaranteed rankings, viral content, or overnight results — because no legitimate agency can promise those things. What we commit to is a clear strategy, consistent execution, and transparent reporting on what's actually happening."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Meet the Team",
+      "blocks": [],
+      "subsections": []
+    },
+    {
+      "heading": "Let's Talk About Your Business",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Whether you're evaluating agencies or just exploring what's possible for your marketing, we're happy to have a real, no-pressure conversation about your business."
+        },
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "law-firms",
+  "route": "/industries/law-firms",
+  "metaTitle": "Law Firm Digital Marketing | SEO & Ads for Attorneys — GrowZap",
+  "metaDescription": "GrowZap's law firm marketing services help attorneys rank locally, generate",
+  "h1": "Digital Marketing for Law Firms — More Clients, More Cases, More Growth",
+  "intro": [
+    "The legal industry is one of the most competitive environments in digital marketing — where the difference between ranking on page one and page two can represent hundreds of thousands in revenue. GrowZap's law firm marketing services are built for that competitive landscape, with SEO strategies, paid advertising, and content production focused on generating qualified client inquiries, not just website traffic."
+  ],
+  "heroCta": "Book a Free Legal Marketing Consultation",
+  "sections": [
+    {
+      "heading": "Why Law Firm Marketing Requires a Specialist Approach",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Legal marketing operates under both high competition and regulatory constraints around how legal services can be advertised in certain jurisdictions. We build strategies that are both effective and appropriate — making claims based on what you can demonstrate, not making guarantees about case outcomes or legal results. Content accuracy is also critical: legal content that contains errors or misleading information creates a trust problem the moment a knowledgeable reader encounters it. We write legal content carefully and accurately."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Law Firms",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local SEO",
+              "text": "Ranking for your practice areas and location — \"personal injury lawyer near me,\" \"family attorney [city].\" [Learn more →]"
+            },
+            {
+              "lead": "Google Ads",
+              "text": "High-intent, search-based lead generation targeting people actively looking for legal representation. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Practice area pages, legal guides, and FAQs that build authority and answer pre-consultation questions. [Learn more →]"
+            },
+            {
+              "lead": "Website Copywriting",
+              "text": "Attorney website copy written to build trust and motivate consultation bookings. [Learn more →]"
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Brand-building and credibility content appropriate to a professional legal practice. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Which digital marketing channels work best for law firms?",
+              "a": "Google Ads performs well for high-intent, immediate-need queries like personal injury or criminal defense. Local SEO builds longer-term organic visibility. Content marketing supports estate planning and family law where clients typically do more research before reaching out."
+            },
+            {
+              "q": "How long does it take to see results from law firm SEO?",
+              "a": "SEO for legal keywords typically takes 4–9 months for meaningful results due to high competition, particularly in large markets. Paid ads can generate inquiries immediately."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Book a Free Legal Marketing Consultation",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book Your Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

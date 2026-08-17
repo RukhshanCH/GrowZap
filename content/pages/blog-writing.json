@@ -1,0 +1,129 @@
+{
+  "slug": "blog-writing",
+  "route": "/services/content-writing/blog-writing",
+  "metaTitle": "Blog Writing Services | SEO-Optimized Blog Content — GrowZap",
+  "metaDescription": "GrowZap's blog writing service produces keyword-researched, SEO-optimized",
+  "h1": "Blog Writing Services — SEO-Optimized Content That Builds Authority Over Time",
+  "intro": [
+    "A regularly updated blog is one of the most cost-effective long-term investments in organic traffic — but only if the content is actually written with strategy behind it. GrowZap's blog writing service produces articles that are keyword-researched, properly structured for SEO, and genuinely useful to your readers, rather than thin content that exists only to hit a publishing schedule."
+  ],
+  "heroCta": "Get a Free Content Strategy Session",
+  "sections": [
+    {
+      "heading": "What Is Professional Blog Writing?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Professional blog writing is the process of creating long-form written content — typically 800 to 2,000+ words — that covers a topic comprehensively from the reader's perspective while being structured to rank for relevant search queries. It goes beyond good writing: it involves keyword research, search intent analysis, on-page structure, internal linking, and calls-to-action that guide readers toward the next step with your business."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Why Blog Writing Still Matters",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Search engines continue to reward websites that consistently publish useful, original content covering their area of expertise. Each well-written blog post is a new page that can rank for its own set of keywords, attracting new visitors who might never have found your site otherwise. Over time, a library of quality blog content builds topical authority — a signal to Google that your site deserves to rank for a wider range of queries in your industry. AI search tools like Google AI Overviews and ChatGPT also frequently draw from high-quality blog content when answering user questions — making blog writing a relevant investment for AI search visibility, not just traditional Google results."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Blog Writing Service",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Keyword Research & Topic Planning",
+          "body": "Every blog post starts with research — we identify the specific search queries your target audience is using, their search intent, and the competitive landscape before writing a word."
+        },
+        {
+          "title": "SEO-Optimized Writing",
+          "body": "Structure matters as much as content quality. We write with proper heading hierarchy, natural keyword integration, appropriate length for the topic, and formatting that helps readers scan and find what they need."
+        },
+        {
+          "title": "Expert Research & Fact Verification",
+          "body": "We research every article properly, ensuring accuracy across claims, statistics, and industry-specific information — a baseline requirement for E-E-A-T compliance and reader trust."
+        },
+        {
+          "title": "Internal Linking & CTAs",
+          "body": "Every post includes internal links to relevant service pages and a contextually appropriate call-to-action that naturally moves readers toward the next step, whether that's a related article or a consultation."
+        }
+      ]
+    },
+    {
+      "heading": "Blog Writing vs. DIY — What's the Real Trade-Off?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Writing your own blog content costs less money but more time — including research, drafting, SEO structuring, and editing. For many business owners, that time is more valuable spent running the business than producing content at the required quality and consistency for SEO results. We handle the writing so you can review, approve, and benefit from the traffic without it consuming hours every week."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Blog Writing Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Topic & Keyword Brief",
+              "text": "We identify target keywords and create a content brief for each post."
+            },
+            {
+              "lead": "Research & Outline",
+              "text": "We research the topic, outline the structure, and share it for your input before writing."
+            },
+            {
+              "lead": "Writing",
+              "text": "A fully researched, SEO-structured draft is written."
+            },
+            {
+              "lead": "Review & Approval",
+              "text": "You review and request any changes before the post is finalized."
+            },
+            {
+              "lead": "Publishing Support",
+              "text": "We can deliver a ready-to-publish file or handle direct upload to your CMS."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How long should a blog post be?",
+              "a": "Ideal length depends on the topic and search intent. Informational queries often perform well at 1,200–2,000 words; simpler, specific-answer queries may perform better at 600–900. We recommend length based on what's actually ranking for each target keyword, not a blanket word count."
+            },
+            {
+              "q": "How often should I publish blog content?",
+              "a": "Consistency matters more than raw frequency. One high-quality post per week sustainably outperforms five low-quality posts that can't be maintained. We'll recommend a cadence based on your goals and budget."
+            },
+            {
+              "q": "Will blogging help my local SEO?",
+              "a": "Yes — local-focused blog content (covering topics specific to your city or service area) can support local SEO by creating locally relevant pages that signal expertise in a geographic area. [Learn more about Local SEO →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get Your First Blog Written",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Content Strategy Session"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

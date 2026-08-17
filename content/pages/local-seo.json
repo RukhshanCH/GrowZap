@@ -1,0 +1,110 @@
+{
+  "slug": "local-seo",
+  "route": "/services/seo/local-seo",
+  "metaTitle": "Local SEO Services | Top Local SEO Company — GrowZap",
+  "metaDescription": "Rank higher in Google Maps and \"near me\" searches with GrowZap's local SEO services. Serving",
+  "h1": "Local SEO Services — Get Found by Customers Near You",
+  "intro": [
+    "If your business depends on customers in a specific city or service area, ranking in Google's local results matters more than almost any other SEO factor. GrowZap is a local SEO company built specifically to help small businesses show up in the map pack and \"near me\" searches — where local customers are actively looking to buy. We work with businesses searching for **seo marketing near me**, as well as agencies and brands evaluating the **top local seo companies** across Colorado, Montana, and beyond."
+  ],
+  "heroCta": "Get Your Free Local SEO Audit",
+  "sections": [
+    {
+      "heading": "What Is Local SEO and Why Does It Matter?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Local SEO is the practice of optimizing your online presence so your business appears in location-based searches — both in Google's \"local pack\" (the map and three-business listing at the top of search results) and in standard organic rankings for geo-specific terms. It matters because local search behavior tends to convert at a high rate: someone searching \"plumber near me\" or \"best coffee shop downtown\" is usually ready to act quickly, not just browsing. If your business isn't visible in that moment, a competitor's will be."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Local SEO Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Google Business Profile Optimization",
+          "body": "Your Google Business Profile is often the first thing potential customers see. We optimize your categories, descriptions, photos, and posts to improve both visibility and click-through rate."
+        },
+        {
+          "title": "Local Citations & NAP Consistency",
+          "body": "We ensure your business Name, Address, and Phone number (NAP) are consistent across directories and citation sources — inconsistencies here are one of the most overlooked ranking blockers for local businesses."
+        },
+        {
+          "title": "Localized Content & On-Page Optimization",
+          "body": "We build location-specific landing pages and content that match how local customers actually search, rather than generic service pages that ignore geography entirely."
+        },
+        {
+          "title": "Local Link Building & Reviews",
+          "body": "We help build local backlinks and citations from relevant, community-connected sources, and support review generation strategies — both signal trust to Google and to potential customers."
+        }
+      ]
+    },
+    {
+      "heading": "Local SEO for Colorado, Montana & Beyond",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GrowZap is rooted in Colorado and Montana, which means we understand the local search landscape in cities like Denver and Colorado Springs firsthand — not from generic templates. Whether you're a small business searching for a Colorado Springs local SEO company or comparing SEO companies in Denver, our team builds strategy around your actual service area, competition, and customer search behavior in that specific market. We also work with businesses outside Colorado and Montana — the same localized approach applies anywhere you have a defined service area or physical location."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How We Measure Local SEO Success",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Local SEO results show up in a few measurable places: map pack rankings for your target keywords, organic visibility for \"near me\" and city-specific searches, Google Business Profile engagement (calls, direction requests, website clicks), and ultimately, increased local lead volume. We report on all of these — not just keyword rankings in isolation — because rankings alone don't pay the bills; the actions customers take after finding you do."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between local SEO and regular SEO?",
+              "a": "Regular (organic) SEO focuses on ranking your website broadly, while local SEO specifically targets location-based searches and the Google Maps \"local pack\" — optimizing factors like your Google Business Profile, local citations, and geo-specific content that organic SEO alone doesn't address."
+            },
+            {
+              "q": "How long does local SEO take to show results?",
+              "a": "Many businesses see initial movement in Google Business Profile visibility within 4–8 weeks, with broader local ranking improvements building over 3–6 months, depending on competition in your area."
+            },
+            {
+              "q": "Do you only work with businesses in Colorado and Montana?",
+              "a": "No. While we have deep local market knowledge in Colorado and Montana, including cities like Denver and Colorado Springs, we provide local SEO services to businesses anywhere in the USA."
+            },
+            {
+              "q": "Does local SEO help if I don't have a physical storefront?",
+              "a": "Yes. Service-area businesses (like contractors, cleaners, or mobile service providers) can still rank in local search using a defined service area in Google Business Profile, without a public-facing storefront."
+            },
+            {
+              "q": "Will local SEO help my Google reviews?",
+              "a": "Local SEO strategy typically includes a review generation approach, since review quantity, recency, and rating all factor into local rankings — but we don't generate fake reviews; we help you build a sustainable process for collecting real ones."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get Your Free Local SEO Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Find out exactly how your business currently shows up in local search — and what's holding you back from the map pack."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Local SEO Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

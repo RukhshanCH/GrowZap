@@ -1,0 +1,110 @@
+{
+  "slug": "faqs",
+  "route": "/faqs",
+  "metaTitle": "FAQs | GrowZap Digital Marketing Agency",
+  "metaDescription": "Answers to common questions about working with GrowZap — pricing, contracts, SEO timelines,",
+  "h1": "Frequently Asked Questions",
+  "intro": [],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "General Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What does GrowZap actually do?",
+              "a": "GrowZap is a full-service digital marketing agency offering SEO, Google Ads, Meta Ads, social media management, content writing, graphic design, and video editing — built to work together as a connected strategy rather than disconnected services."
+            },
+            {
+              "q": "What industries do you work with?",
+              "a": "We work across multiple industries, including home services, healthcare, ecommerce, professional services, real estate, and hospitality. [See Industries We Serve →]"
+            },
+            {
+              "q": "Where is GrowZap located, and who do you serve?",
+              "a": "GrowZap is rooted in Colorado and Montana, and we serve businesses across the USA, both locally-focused and nationally-focused."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Pricing & Contracts",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How much does it cost to work with GrowZap?",
+              "a": "Pricing depends on which services and scope you need. We offer tiered packages designed for small business budgets — see our Pricing page for a general overview, or book a free consultation for a specific quote."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "SEO Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How long does SEO take to show results?",
+              "a": "Most businesses see meaningful movement within 3–6 months, with results building further over 6–12 months, depending on your starting point and competition. [Learn more about SEO Services →]"
+            },
+            {
+              "q": "Can you guarantee a #1 Google ranking?",
+              "a": "No legitimate agency can guarantee a specific ranking position. We commit to transparent strategy, consistent execution, and honest reporting instead."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Paid Advertising Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is my ad spend included in your management fee?",
+              "a": "No — ad spend is paid directly to Google or Meta and is separate from our management fee, which covers strategy, setup, and ongoing optimization. [Learn more about Google Ads →] [Learn more about Meta Ads →]"
+            },
+            {
+              "q": "How fast can paid ads generate leads?",
+              "a": "Campaigns can begin generating clicks and leads within days of launch, though meaningful optimization typically takes a few weeks of performance data."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Getting Started",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What happens after I book a consultation?",
+              "a": "We'll discuss your business, goals, and current marketing situation, then typically follow up with a free audit relevant to the service(s) you're interested in before recommending a specific strategy."
+            },
+            {
+              "q": "Do I need to know exactly which services I need before reaching out?",
+              "a": "No — many clients aren't sure which services fit best when they first reach out. That's part of what the initial consultation is for."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "label": "Still Have Questions? Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

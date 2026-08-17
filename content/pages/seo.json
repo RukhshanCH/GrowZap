@@ -1,0 +1,142 @@
+{
+  "slug": "seo",
+  "route": "/services/seo",
+  "metaTitle": "SEO Services | Top SEO Agency for Small Business — GrowZap",
+  "metaDescription": "GrowZap offers affordable SEO services for small businesses, including local, technical, on-page, and",
+  "h1": "SEO Services That Help Your Business Get Found — and Stay Found",
+  "intro": [
+    "SEO isn't one tactic — it's a combination of technical fixes, content strategy, local optimization, and credibility-building that work together to help your website rank in Google and stay there. GrowZap is built as a top SEO agency for small businesses that need real, sustainable growth in organic search — not short-term tricks that disappear after the next algorithm update. We offer affordable SEO services structured around what your business actually needs, whether that's ranking for local \"near me\" searches, fixing technical issues holding your site back, or building the authority that gets you taken seriously by Google."
+  ],
+  "heroCta": "Get a Free SEO Audit",
+  "sections": [
+    {
+      "heading": "What Our SEO Services Include",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO works best as a system, not a single fix. Here's how we break it down:"
+        }
+      ],
+      "subsections": [
+        {
+          "title": "Local SEO",
+          "body": "For businesses that depend on customers in a specific city or service area, local SEO is how you show up in Google Maps and \"near me\" searches. [Explore Local SEO →]"
+        },
+        {
+          "title": "Technical SEO",
+          "body": "Site speed, mobile usability, crawlability, and site structure — the foundation that determines whether Google can properly index and rank your pages at all. [Explore Technical SEO →]"
+        },
+        {
+          "title": "On-Page SEO",
+          "body": "Optimizing the actual content and structure of your pages — titles, headings, internal links, and content quality — so both users and search engines understand what each page is about. [Explore On-Page SEO →]"
+        },
+        {
+          "title": "Off-Page SEO & Link Building",
+          "body": "Building the external signals — backlinks, citations, and brand mentions — that tell Google your site is a credible, trustworthy source worth ranking. [Explore Off-Page SEO →]"
+        }
+      ]
+    },
+    {
+      "heading": "Is SEO Right for Your Business?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO tends to work best for businesses where customers actively search for what you offer — whether that's \"plumber near me,\" \"best running shoes for flat feet,\" or \"accounting firm for small business.\" If your customers are searching, SEO is how you become the answer they find. It's a slower-building channel than paid ads, but the traffic it generates is compounding — meaning a well-optimized page can keep generating leads months or years after it's published, without an ongoing cost-per-click. If you need leads in the next two weeks, SEO alone won't get you there — that's where Google Ads or Meta Ads come in alongside it. Most of our clients run both: ads for immediate volume, SEO for long-term, lower-cost growth."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How Much Do SEO Services Cost?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO pricing depends on your website's current state, your industry's competitiveness, and the scope of work needed (a brand-new site needs different investment than an established one with technical issues). We offer affordable SEO services structured into tiers, so small businesses aren't paying for enterprise-level scope they don't need yet. Rather than quote a generic number that doesn't reflect your actual situation, we start every engagement with an SEO audit — so any pricing conversation is based on your site's real data, not a guess."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our SEO Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "SEO Audit",
+              "text": "We assess your current rankings, technical health, content, and backlink profile to identify the highest-impact opportunities."
+            },
+            {
+              "lead": "Strategy & Keyword Research",
+              "text": "We identify the search terms your customers actually use, mapped to commercial, informational, and local intent."
+            },
+            {
+              "lead": "Implementation",
+              "text": "Technical fixes, on-page optimization, content creation, and link-building work begin, prioritized by impact."
+            },
+            {
+              "lead": "Tracking & Reporting",
+              "text": "You receive clear, regular reports on rankings, traffic, and the actions taken — not just a dashboard full of numbers. We're transparent that SEO is a process, not a switch. We won't promise a #1 ranking on a specific date — what we will commit to is a documented strategy, consistent execution, and honest reporting on what's actually moving the needle."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "SEO for Ecommerce & Specialized Industries",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ecommerce SEO has its own set of challenges — product page optimization, category structure, duplicate content issues, and shopping-specific search intent. As an ecommerce SEO company offering, we optimize product and category pages to capture ready-to-buy search traffic, not just informational browsing. We also work with service-based industries — home services, healthcare, professional services, and real estate — where local SEO and content strategy typically matter more than ecommerce-specific tactics."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between SEO and paid ads?",
+              "a": "SEO builds organic (unpaid) rankings over time and tends to be more cost-effective long-term, while paid ads (Google Ads, Meta Ads) generate immediate traffic but stop the moment you stop paying. Most businesses benefit from using both strategically."
+            },
+            {
+              "q": "How long does SEO take to work?",
+              "a": "Most businesses start seeing measurable movement within 3–6 months, with more significant results building over 6–12 months. Timelines vary based on your site's starting point, competition, and the consistency of execution."
+            },
+            {
+              "q": "Do you offer affordable SEO services for small businesses?",
+              "a": "Yes. We structure our SEO packages specifically for small business budgets, starting with an audit so you're only paying for the work your site actually needs."
+            },
+            {
+              "q": "Can you guarantee a #1 Google ranking?",
+              "a": "No legitimate SEO agency can guarantee a specific ranking position — Google's algorithm considers hundreds of factors, many outside any agency's control. What we can guarantee is a transparent strategy, consistent execution, and honest reporting on results."
+            },
+            {
+              "q": "Do you provide SEO audits?",
+              "a": "Yes, every SEO engagement starts with a comprehensive audit covering technical health, on-page factors, content, and backlink profile — and we offer this audit for free before you commit to anything."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free SEO Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See exactly where your website stands in search — technical issues, content gaps, and ranking opportunities — before you spend a dollar on SEO services."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free SEO Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

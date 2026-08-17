@@ -1,0 +1,135 @@
+{
+  "slug": "social-media-management",
+  "route": "/services/social-media-management",
+  "metaTitle": "Social Media Management Services | GrowZap Marketing Agency",
+  "metaDescription": "GrowZap's social media management services keep your brand consistent and active online —",
+  "h1": "Social Media Management — Consistent, On-Brand Content Without the Time Drain",
+  "intro": [
+    "Social media works best when it's consistent — but staying consistent while running a business is hard. GrowZap's social media management services handle the strategy, content creation, posting, and community engagement, so your brand stays active and on-brand without it falling on your already-full plate. Whether you need full social media management or want a social media marketing consultant to guide your in-house team's strategy, we'll build an approach that fits how your business actually operates."
+  ],
+  "heroCta": "Get a Free Social Media Audit",
+  "sections": [
+    {
+      "heading": "What Is Social Media Management?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Social media management is the ongoing process of planning, creating, publishing, and engaging with content across your business's social platforms — typically Instagram, Facebook, LinkedIn, and increasingly TikTok, depending on your audience. Done well, it builds brand awareness, nurtures existing customers, and supports the rest of your marketing (SEO, ads, and content all perform better alongside an active social presence)."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Social Media Management Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Content Strategy & Calendar Planning",
+          "body": "We build a content strategy around your brand voice and business goals, planned into a calendar so content stays consistent rather than reactive."
+        },
+        {
+          "title": "Content Creation",
+          "body": "From graphics to short-form video to written captions, we create content designed for how each specific platform actually performs — not the same post repurposed identically everywhere."
+        },
+        {
+          "title": "Posting & Scheduling",
+          "body": "We handle the actual publishing across your platforms, at times and frequencies suited to your audience."
+        },
+        {
+          "title": "Community Management",
+          "body": "We monitor and respond to comments and messages, keeping engagement active and your brand responsive — not silent for days at a time."
+        },
+        {
+          "title": "Performance Reporting",
+          "body": "You'll receive clear reporting on what's actually working — engagement, reach, follower growth, and how social activity supports your broader marketing goals."
+        }
+      ]
+    },
+    {
+      "heading": "Which Platforms Should Your Business Be On?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Not every business needs to be everywhere. The right platforms depend on where your actual customers spend time and what content format suits your business — a B2B service business often gets more value from LinkedIn than TikTok, while a visually-driven retail or hospitality brand may see the opposite. We'll recommend a focused platform strategy based on your audience, rather than spreading effort thin across every platform by default."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Social Media Management Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Brand & Audience Discovery",
+              "text": "We learn your brand voice, goals, and target audience before creating a single piece of content."
+            },
+            {
+              "lead": "Strategy & Content Calendar",
+              "text": "We build a content plan mapped to your goals, platforms, and key dates or campaigns."
+            },
+            {
+              "lead": "Content Creation & Approval",
+              "text": "We create content and share it for your review and approval before it goes live (process can be adjusted to your preference)."
+            },
+            {
+              "lead": "Posting & Engagement",
+              "text": "Content is published on schedule, with ongoing community management."
+            },
+            {
+              "lead": "Reporting & Refinement",
+              "text": "We review performance regularly and adjust the strategy based on what's actually resonating with your audience."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How much does social media management cost?",
+              "a": "Pricing depends on the number of platforms, posting frequency, and content complexity (e.g., video versus static graphics). We'll recommend a package based on your goals and budget during your free audit."
+            },
+            {
+              "q": "Do you create the content, or do I need to provide it?",
+              "a": "We handle content creation as part of our service, though we're also glad to incorporate photos, video, or brand assets you provide — combining both often produces the most authentic results."
+            },
+            {
+              "q": "How is social media management different from social media advertising?",
+              "a": "Social media management covers organic content — posting, engagement, and community building without paid promotion. Social media advertising (Meta Ads) involves paid campaigns specifically designed to reach targeted audiences. Many businesses benefit from both working together. [Learn more about Meta Ads →]"
+            },
+            {
+              "q": "How often should my business post on social media?",
+              "a": "Posting frequency depends on your platform and industry, but consistency matters more than raw volume — a sustainable, regular schedule typically outperforms sporadic high-frequency posting followed by long gaps."
+            },
+            {
+              "q": "Can you manage social media for multiple locations or brands?",
+              "a": "Yes, we work with multi-location and multi-brand businesses, with strategy and reporting structured separately for each as needed."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Social Media Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See how your current social presence stacks up, and where the real opportunity is for growth."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free Social Media Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

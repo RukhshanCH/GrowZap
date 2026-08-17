@@ -1,0 +1,131 @@
+{
+  "slug": "on-page-seo",
+  "route": "/services/seo/on-page-seo",
+  "metaTitle": "On-Page SEO Services | Title Tags, Content & Optimization — GrowZap",
+  "metaDescription": "GrowZap's on-page SEO services optimize your titles, headers, content, and internal links so each",
+  "h1": "On-Page SEO Services — Optimize Every Page to Rank and Convert",
+  "intro": [
+    "On-page SEO is how you tell Google — clearly and specifically — what each page on your website is actually about. GrowZap's on-page SEO services optimize the elements within your control on every page: titles, headers, content, internal links, and images, so each page has a real shot at ranking for the terms your customers are searching."
+  ],
+  "heroCta": "Get a Free On-Page SEO Review",
+  "sections": [
+    {
+      "heading": "What Is On-Page SEO?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "On-page SEO refers to the optimization of individual web pages — as opposed to technical SEO (site infrastructure) or off-page SEO (external signals like backlinks). It covers everything from your title tags and headers to your content quality, internal linking, and image optimization. Done well, on-page SEO does two things at once: it helps search engines understand what a page is about and how relevant it is to a given search, and it helps actual visitors quickly confirm they've found the right page — which affects whether they stay, read, and convert."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our On-Page SEO Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Title Tags & Meta Descriptions",
+          "body": "The title and description that appear in search results directly affect both rankings and click-through rate. We write these to be clear, keyword-relevant, and compelling enough to earn the click."
+        },
+        {
+          "title": "Header Tag Structure (H1-H3)",
+          "body": "A clear heading hierarchy (one H1, logically nested H2s and H3s) helps both readers scan content and helps search engines understand page structure and topic relevance."
+        },
+        {
+          "title": "Keyword Optimization & Content Quality",
+          "body": "We optimize content around the keywords your customers actually search for — naturally integrated, never stuffed — while making sure the content genuinely answers the searcher's question."
+        },
+        {
+          "title": "Internal Linking Strategy",
+          "body": "Strategic internal links help distribute ranking authority across your site and guide visitors (and search engines) toward your most important pages."
+        },
+        {
+          "title": "Image Optimization & Alt Text",
+          "body": "Properly compressed images with descriptive alt text improve page speed, accessibility, and give search engines additional context about your content."
+        }
+      ]
+    },
+    {
+      "heading": "On-Page SEO vs. Technical SEO — What's the Difference?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "These two are commonly confused. Technical SEO is about whether Google *can* access and crawl your site correctly — site speed, indexing, mobile-friendliness. On-page SEO is about whether each individual page is properly optimized for its target topic once Google *can* access it. In short: technical SEO removes barriers; on-page SEO maximizes relevance. Most websites need both working together. [Learn more about Technical SEO →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our On-Page SEO Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Page-by-Page Review",
+              "text": "We audit your existing pages against on-page best practices and identify gaps."
+            },
+            {
+              "lead": "Keyword Mapping",
+              "text": "We assign target keywords to each page based on search intent, avoiding keyword overlap between pages (which can hurt rankings)."
+            },
+            {
+              "lead": "Optimization",
+              "text": "We update titles, headers, content, internal links, and images according to the plan."
+            },
+            {
+              "lead": "Performance Tracking",
+              "text": "We monitor how optimized pages perform in search over time and refine as needed."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's an example of on-page SEO?",
+              "a": "Examples include writing a clear, keyword-relevant title tag, structuring content with a single H1 and logical H2s, adding descriptive alt text to images, and linking internally to related pages on your site."
+            },
+            {
+              "q": "Is on-page SEO something I can do myself?",
+              "a": "Many on-page SEO basics are learnable, but doing it correctly across an entire website — without keyword overlap, with consistent structure, and aligned to actual search intent — typically requires more time and expertise than most business owners have available."
+            },
+            {
+              "q": "How is on-page SEO different from content writing?",
+              "a": "Content writing focuses on creating the actual words on a page. On-page SEO is the broader optimization layer applied to that content and the page's structural elements — title tags, headers, internal links — so the content performs as well as possible in search."
+            },
+            {
+              "q": "Does on-page SEO affect page speed?",
+              "a": "Indirectly, yes — image optimization (part of on-page SEO) affects load time, though most page speed issues fall under technical SEO more broadly."
+            },
+            {
+              "q": "How often does on-page SEO need to be updated?",
+              "a": "We recommend reviewing on-page elements whenever you publish new content, redesign a page, or notice ranking declines — search intent and competition can shift over time, so periodic review keeps pages aligned with current search behavior."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free On-Page SEO Review",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "See how your current pages stack up — title tags, headers, content, and internal linking — with specific, actionable recommendations."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free On-Page SEO Review"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

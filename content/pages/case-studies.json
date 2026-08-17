@@ -1,0 +1,41 @@
+{
+  "slug": "case-studies",
+  "route": "/case-studies",
+  "metaTitle": "Case Studies | Real Results From GrowZap Clients",
+  "metaDescription": "See real results from real GrowZap clients across SEO, paid ads, and social media — including the",
+  "h1": "Case Studies — Real Results From Real Clients",
+  "intro": [
+    "Results are the only thing that actually matters in marketing. Here's how we've helped real businesses grow — including the strategy behind each outcome, not just the final numbers."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "[Client/Industry Name] — [Specific, Verified Result Headline]",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "The Challenge",
+          "body": ""
+        },
+        {
+          "title": "Our Strategy",
+          "body": ""
+        },
+        {
+          "title": "The Results",
+          "body": "[State actual, verifiable outcomes with real numbers and a realistic timeframe. Avoid vague claims like \"huge growth\" — specificity here is both more persuasive and more honest.] *(Repeat this structure for each case study. We recommend a minimum of 3-5 case studies across different industries/services before this page is published, to demonstrate breadth of experience.)*"
+        }
+      ]
+    },
+    {
+      "heading": "Ready to Be Our Next Success Story?",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

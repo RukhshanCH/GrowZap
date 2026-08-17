@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Minimal structural utilities (layout plumbing, not a utility framework)
+   ========================================================================== */
+
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: var(--container-pad);
+}
+
+.section {
+  padding-block: var(--space-11);
+}
+
+.section--tight {
+  padding-block: var(--space-10);
+}
+
+.section--muted {
+  background: var(--color-surface-muted);
+}
+
+.section--raised {
+  background: var(--color-surface-raised);
+}
+
+.section--dark {
+  background: var(--gradient-dark);
+  color: var(--color-text-on-dark);
+}
+
+.section--dark h1,
+.section--dark h2,
+.section--dark h3,
+.section--dark h4 {
+  color: #ffffff;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

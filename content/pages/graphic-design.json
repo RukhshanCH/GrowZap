@@ -1,0 +1,117 @@
+{
+  "slug": "graphic-design",
+  "route": "/services/graphic-design",
+  "metaTitle": "Graphic Design Services | Branding & Marketing Design — GrowZap",
+  "metaDescription": "GrowZap's graphic design services cover branding, social media graphics, and marketing creative —",
+  "h1": "Graphic Design Services — Visuals That Match Your Brand and Your Goals",
+  "intro": [
+    "Design isn't just about looking good — it's about looking like *you*, consistently, everywhere your business shows up. GrowZap's graphic design services build visual assets that strengthen your brand identity and directly support your broader marketing, from social content to ad creative to printed materials."
+  ],
+  "heroCta": "Get a Free Design Consultation",
+  "sections": [
+    {
+      "heading": "What's Included in Our Graphic Design Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Brand Identity & Logo Design",
+          "body": "For businesses building or refreshing their visual identity, we develop logos and brand guidelines that give every future design a consistent foundation to build from."
+        },
+        {
+          "title": "Social Media Graphics",
+          "body": "Templates and custom graphics designed for how each platform actually performs, supporting your broader social media strategy. [Learn more about Social Media Management →]"
+        },
+        {
+          "title": "Marketing & Ad Creative",
+          "body": "Visual assets for Google Ads, Meta Ads, and other paid campaigns, designed to capture attention and align with what's actually converting."
+        },
+        {
+          "title": "Print & Digital Collateral",
+          "body": "Business cards, flyers, brochures, presentation decks, and other materials, designed consistently with your overall brand identity."
+        }
+      ]
+    },
+    {
+      "heading": "Project-Based vs. Ongoing Design Support",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Some businesses need a one-time project — a new logo, a brand refresh, a single campaign's creative. Others need ongoing design support tied to regular marketing activity, like monthly social content or recurring ad creative. We work both ways: as a one-time project partner, or as an ongoing design resource folded into your broader marketing retainer."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Design Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Discovery",
+              "text": "We learn your brand, goals, and any existing visual guidelines before designing anything."
+            },
+            {
+              "lead": "Concept Development",
+              "text": "We develop initial design concepts or directions based on that discovery."
+            },
+            {
+              "lead": "Revisions & Refinement",
+              "text": "We refine based on your feedback until the design genuinely fits."
+            },
+            {
+              "lead": "Delivery & Guidelines",
+              "text": "Final files are delivered in the formats you need, with brand guidelines provided for larger identity projects so future design stays consistent."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do you design logos and full brand identities, or just marketing graphics?",
+              "a": "Both. We handle full brand identity projects (logo, color palette, typography, brand guidelines) as well as ongoing marketing graphics that build on an existing identity."
+            },
+            {
+              "q": "How long does a logo or brand identity project take?",
+              "a": "Timeline depends on project scope and revision rounds, but most brand identity projects take a few weeks from discovery to final delivery."
+            },
+            {
+              "q": "Can you design graphics for both print and digital use?",
+              "a": "Yes, we design for both, accounting for the different technical requirements (resolution, color mode, file formats) each medium requires."
+            },
+            {
+              "q": "Do you offer ongoing design support, or only one-off projects?",
+              "a": "Both options are available — we work with clients who need occasional project-based design as well as clients who fold ongoing design needs into a broader monthly marketing retainer."
+            },
+            {
+              "q": "What file formats will I receive?",
+              "a": "We provide source files and export formats appropriate to how you'll use the design (print-ready files, web-optimized graphics, editable templates, etc.), confirmed with you during the project."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Design Consultation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tell us what you're working on — a single project or ongoing design support — and we'll talk through what makes sense for your brand and budget."
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free Design Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "ppc-management",
+  "route": "/services/google-ads/ppc-management",
+  "metaTitle": "PPC Campaign Management | Pay-Per-Click Advertising Agency — GrowZap",
+  "metaDescription": "GrowZap manages PPC campaigns across Google, Meta, and beyond — built",
+  "h1": "PPC Campaign Management — Stop Wasting Ad Spend, Start Getting Results",
+  "intro": [
+    "Most businesses that come to us with PPC problems aren't spending too little — they're spending without a clear structure behind the campaign. GrowZap's PPC campaign management service builds paid advertising strategies around one goal: the lowest possible cost to acquire a qualified customer, across every platform you run ads on."
+  ],
+  "heroCta": "Get a Free PPC Audit",
+  "sections": [
+    {
+      "heading": "What Is PPC Campaign Management?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pay-per-click (PPC) management is the ongoing process of building, optimizing, and monitoring paid advertising campaigns where you pay each time someone clicks your ad. PPC management covers far more than setting up a campaign and leaving it — it involves continuous keyword refinement, bid adjustments, ad copy testing, audience management, and conversion tracking to make sure every dollar of spend moves toward your actual business goals."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our PPC Management Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Campaign Structure & Strategy",
+          "body": "Poorly structured campaigns are one of the most common causes of wasted PPC spend. We build campaigns with clean, logical structures — separate ad groups for distinct themes, properly scoped match types, and negative keyword lists that prevent irrelevant clicks from burning your budget."
+        },
+        {
+          "title": "Keyword Research for Paid Search",
+          "body": "Paid search keyword research differs from SEO keyword research — we prioritize commercial intent, realistic cost-per-click, and actual conversion potential rather than simply targeting high search volume terms."
+        },
+        {
+          "title": "Ad Copy & Extension Optimization",
+          "body": "We write ad copy that matches the intent behind each keyword and continuously test variations to improve click-through rates. Ad extensions (sitelinks, callouts, call extensions) are fully configured to maximize your ad's presence in search results."
+        },
+        {
+          "title": "Bid Management & Budget Allocation",
+          "body": "We actively adjust bids based on performance data — shifting budget toward campaigns and keywords that are actually converting, and reducing spend on those that aren't."
+        },
+        {
+          "title": "Landing Page Alignment",
+          "body": "A well-managed PPC campaign paired with a poorly matched landing page still won't convert. We review and advise on landing page alignment, since the page a visitor lands on after clicking is as important as the ad itself."
+        },
+        {
+          "title": "Performance Tracking & Reporting",
+          "body": "We configure conversion tracking for every relevant action — form fills, phone calls, purchases — so reporting shows business outcomes rather than just platform metrics."
+        }
+      ]
+    },
+    {
+      "heading": "Platforms We Manage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We manage PPC campaigns across Google Search, Google Display Network, Google Shopping, and Meta (Facebook and Instagram). For most small businesses, we recommend starting with one or two platforms based on where your customers are most likely to search or browse, rather than spreading budget thin across everything simultaneously."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "How PPC Fits Into Your Overall Strategy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PPC works best when it's integrated with your broader marketing, not treated as a standalone solution. Paid search captures people actively looking for what you offer, while SEO builds long-term organic visibility on the same searches. Running both lets you maintain presence while organic rankings develop — and data from PPC campaigns often reveals high-performing keywords that should be prioritized in your SEO content strategy too. [Learn more about SEO Services →] [Learn more about Google Ads →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our PPC Management Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Audit & Goal Setting",
+              "text": "We assess your current campaigns (or starting goals if you're new to PPC) and define specific, measurable success metrics."
+            },
+            {
+              "lead": "Campaign Build",
+              "text": "We structure campaigns, ad groups, keywords, and ads from the ground up or restructure existing ones."
+            },
+            {
+              "lead": "Tracking Setup",
+              "text": "Conversion tracking is installed and verified before campaigns go live."
+            },
+            {
+              "lead": "Launch & Learning Period",
+              "text": "Initial performance data is gathered, with close monitoring during the first few weeks."
+            },
+            {
+              "lead": "Ongoing Optimization",
+              "text": "Bids, keywords, and ad copy are continuously refined based on what's actually working."
+            },
+            {
+              "lead": "Reporting",
+              "text": "Regular reports show performance against your specific goals, in plain language."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between PPC management and Google Ads management?",
+              "a": "Google Ads is one platform where PPC runs. PPC management is the broader practice — it can cover Google, Meta, Microsoft Ads, and others. Our PPC management service can cover one or multiple platforms depending on your needs."
+            },
+            {
+              "q": "How much budget do I need to run a PPC campaign?",
+              "a": "Budget requirements vary by industry and competition — some industries are far more expensive per click than others. We'll recommend a realistic starting budget based on your market during the audit rather than applying a generic minimum."
+            },
+            {
+              "q": "Will I own my campaigns if I stop working with you?",
+              "a": "Yes. All campaigns we build are in your own ad accounts, which you own. If you ever move on, your campaign history and data stay with you."
+            },
+            {
+              "q": "How do you measure PPC success?",
+              "a": "We measure success against your specific business goals — leads, purchases, calls — not just clicks or impressions. Conversion tracking is set up to tie campaign performance directly to real outcomes."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free PPC Audit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Find out exactly where your current campaigns are wasting spend — or what a new PPC strategy could look like for your business."
+        },
+        {
+          "type": "cta",
+          "label": "Get Your Free PPC Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

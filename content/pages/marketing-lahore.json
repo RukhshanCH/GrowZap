@@ -1,0 +1,67 @@
+{
+  "slug": "marketing-lahore",
+  "route": "/locations/digital-marketing-lahore",
+  "metaTitle": "Digital Marketing Services in Lahore | SEO & Ads Agency — GrowZap",
+  "metaDescription": "GrowZap offers SEO, Google Ads, social media, and full digital marketing",
+  "h1": "Digital Marketing Services in Lahore — Helping Lahore Businesses Grow Online",
+  "intro": [
+    "Lahore's business environment is increasingly competitive online. GrowZap's digital marketing services for Lahore-based businesses cover SEO, paid advertising, social media, and content — building the online visibility needed to grow in both local and international markets."
+  ],
+  "heroCta": "Get a Free Lahore Marketing Consultation",
+  "sections": [
+    {
+      "heading": "Our Digital Marketing Services for Lahore Businesses",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "SEO Services",
+              "text": "Ranking in Google for Lahore-specific and broader Pakistan market queries. [Learn more →]"
+            },
+            {
+              "lead": "Google Ads",
+              "text": "Immediate search visibility for high-intent Lahore customers. [Learn more →]"
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Platform presence on Facebook, Instagram, and TikTok for Lahore's highly active social media market. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "English and Urdu-friendly content strategy for Pakistani audiences. [Learn more →]"
+            },
+            {
+              "lead": "Graphic Designing",
+              "text": "Brand visuals appropriate to the Lahore market. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do you work with businesses in Lahore remotely?",
+              "a": "Yes — all client work is managed remotely through video calls, digital reporting, and regular communication."
+            },
+            {
+              "q": "Do you create Urdu content?",
+              "a": "We build strategies that account for Pakistan's bilingual digital landscape. Contact us to discuss specific language requirements."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free Lahore Marketing Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

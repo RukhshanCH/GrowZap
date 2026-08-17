@@ -1,0 +1,52 @@
+/* ==========================================================================
+   Page hero block (interior pages)
+   ========================================================================== */
+
+.page-hero {
+  padding-block: var(--space-9) var(--space-11);
+  position: relative;
+  overflow: hidden;
+}
+
+.page-hero__inner {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-8);
+}
+
+.page-hero__content {
+  max-width: 680px;
+}
+
+.page-hero__eyebrow {
+  margin-top: var(--space-6);
+}
+
+.page-hero__title {
+  margin-top: var(--space-4);
+  font-size: var(--fs-h1);
+}
+
+.page-hero__lead {
+  margin-top: var(--space-5);
+}
+
+.page-hero__cta {
+  margin-top: var(--space-7);
+}
+
+.page-hero__bars {
+  flex-shrink: 0;
+  opacity: 0.9;
+}
+
+@media (max-width: 860px) {
+  .page-hero__inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .page-hero__bars {
+    display: none;
+  }
+}

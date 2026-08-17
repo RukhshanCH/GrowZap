@@ -1,0 +1,195 @@
+{
+  "slug": "why-hire-agency",
+  "route": "/resources/why-hire-a-digital-marketing-agency",
+  "metaTitle": "Why Hire a Digital Marketing Agency? Honest Pros & Cons | GrowZap",
+  "metaDescription": "Thinking about hiring a digital marketing agency? GrowZap breaks down the",
+  "h1": "Why Hire a Digital Marketing Agency? (An Honest Answer)",
+  "intro": [
+    "This is a legitimate question worth answering honestly rather than with a biased sales pitch. Hiring a digital marketing agency isn't right for every business in every situation — and a good agency should tell you that upfront rather than convincing everyone they're the answer regardless of fit."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "What a Digital Marketing Agency Actually Does",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A full-service digital marketing agency manages the strategy, execution, and ongoing optimization of your marketing across channels — SEO, paid advertising, social media, content, and design — without requiring you to hire, manage, and retain a full internal team for each discipline. In practice, that means the agency handles:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Figuring out which channels to prioritize for your specific business"
+            },
+            {
+              "lead": null,
+              "text": "Building and running the campaigns in each channel"
+            },
+            {
+              "lead": null,
+              "text": "Tracking what's working and adjusting accordingly"
+            },
+            {
+              "lead": null,
+              "text": "Reporting performance against your actual business goals"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Agency vs. In-House Marketing — A Real Comparison",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "**An agency typically makes sense when:**"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "You need multiple marketing disciplines (SEO + paid ads + content + design) but can't justify separate hires for each"
+            },
+            {
+              "lead": null,
+              "text": "You want to start quickly rather than spending months hiring and onboarding"
+            },
+            {
+              "lead": null,
+              "text": "Your marketing needs fluctuate and you want flexibility to scale up or down"
+            },
+            {
+              "lead": null,
+              "text": "You're a small or medium business where a full in-house team is cost-prohibitive"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**In-house typically makes sense when:**"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Your marketing needs are highly specialized in one channel"
+            },
+            {
+              "lead": null,
+              "text": "Brand voice and day-to-day market knowledge is critical and hard to transfer to an external team"
+            },
+            {
+              "lead": null,
+              "text": "You have enough volume to justify a dedicated full-time team"
+            },
+            {
+              "lead": null,
+              "text": "You need marketing deeply integrated with internal operations Most growing businesses end up with a hybrid: an external agency handling channels that require specialized expertise, while an internal person manages brand, communication, and day-to-day coordination."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "When Hiring an Agency Makes Sense",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "You're probably a good candidate for an agency if:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "You're spending time on marketing that should be spent running your business"
+            },
+            {
+              "lead": null,
+              "text": "Your current marketing isn't producing measurable results"
+            },
+            {
+              "lead": null,
+              "text": "You want to launch new channels (SEO, paid ads) without hiring a specialist for each"
+            },
+            {
+              "lead": null,
+              "text": "You've tried DIY marketing and hit a ceiling"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What to Look for in a Digital Marketing Agency",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Transparency on process",
+              "text": "Can they explain specifically what they'll do and how?"
+            },
+            {
+              "lead": "Honest reporting",
+              "text": "Do they show you data tied to business outcomes, not just platform metrics?"
+            },
+            {
+              "lead": "No unrealistic promises",
+              "text": "Any agency promising guaranteed #1 rankings or specific lead volumes is a red flag."
+            },
+            {
+              "lead": "Clear ownership of your assets",
+              "text": "Your ad accounts, website, and campaign data should always belong to you."
+            },
+            {
+              "lead": "Communication norms",
+              "text": "Know how often you'll hear from them and what that looks like before signing."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "How much does a digital marketing agency typically cost?",
+              "a": "Agency costs vary significantly by service scope, market, and agency size. Small business marketing retainers typically range from a few hundred to several thousand dollars per month. The right number depends on what you're trying to achieve and which channels are involved."
+            },
+            {
+              "q": "How do I know if an agency is actually delivering results?",
+              "a": "Ask for reporting tied to business outcomes — leads, revenue, qualified traffic — not just impressions and follower counts. Any agency worth working with should be able to show you a direct connection between their activity and your business metrics."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "See If GrowZap Is the Right Fit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We're happy to have an honest conversation about whether we're the right partner for your situation — even if the answer is that something else makes more sense right now."
+        },
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+/* ==========================================================================
+   Card deck blocks (service cards, industry cards)
+   ========================================================================== */
+
+.card-deck {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-6);
+}
+
+.service-card {
+  position: relative;
+  display: block;
+  padding: var(--space-7);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  transition: transform var(--motion-fast) var(--ease-out), box-shadow var(--motion-fast) var(--ease-out), border-color var(--motion-fast) var(--ease-out);
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-2);
+  border-color: var(--color-purple-300);
+}
+
+.service-card__title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: var(--fs-h4);
+  color: var(--color-ink);
+}
+
+.service-card__desc {
+  margin-top: var(--space-3);
+  color: var(--color-text-secondary);
+  font-size: var(--fs-md);
+  line-height: var(--lh-body);
+  max-width: 40ch;
+}
+
+.service-card__arrow {
+  position: absolute;
+  top: var(--space-6);
+  right: var(--space-6);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--color-surface-raised);
+  color: var(--color-purple-500);
+  transition: background var(--motion-fast) var(--ease-out), color var(--motion-fast) var(--ease-out), transform var(--motion-fast) var(--ease-out);
+}
+
+.service-card:hover .service-card__arrow {
+  background: var(--gradient-brand);
+  color: #ffffff;
+  transform: rotate(45deg);
+}
+
+.industry-deck {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-4);
+}
+
+.industry-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-5) var(--space-6);
+  background: var(--color-surface-muted);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-weight: var(--fw-medium);
+  color: var(--color-ink);
+  transition: background var(--motion-instant) var(--ease-out), color var(--motion-instant) var(--ease-out), border-color var(--motion-instant) var(--ease-out);
+}
+
+.industry-card svg {
+  color: var(--color-purple-500);
+  transition: transform var(--motion-instant) var(--ease-out);
+}
+
+.industry-card:hover {
+  background: var(--gradient-brand);
+  color: #ffffff;
+  border-color: transparent;
+}
+
+.industry-card:hover svg {
+  color: #ffffff;
+  transform: translateX(3px);
+}

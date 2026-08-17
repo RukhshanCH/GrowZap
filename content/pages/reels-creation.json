@@ -1,0 +1,156 @@
+{
+  "slug": "reels-creation",
+  "route": "/services/video-editing/reels",
+  "metaTitle": "Reels Creation Service | Instagram & TikTok Short-Form Video — GrowZap",
+  "metaDescription": "GrowZap creates scroll-stopping Instagram Reels and TikTok content for",
+  "h1": "Reels Creation Service — Short-Form Video That Stops the Scroll",
+  "intro": [
+    "Instagram and TikTok's algorithms actively prioritize Reels above almost every other content format — but a video that doesn't hold attention in the first two seconds won't benefit from that reach. GrowZap's Reels creation service handles strategy, scripting, editing, and optimization, producing short-form video content built to actually retain viewers and grow your presence."
+  ],
+  "heroCta": "Talk to Us About Reels",
+  "sections": [
+    {
+      "heading": "Why Reels Are One of the Most Effective Organic Content Formats Right Now",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Reels receive disproportionate algorithmic reach on Instagram and TikTok compared to static posts, making them one of the few organic content formats still capable of reaching audiences well beyond your existing followers — without requiring ad spend. For businesses trying to grow brand awareness on a limited budget, consistently high-quality Reels can deliver meaningful reach that would cost significantly more through paid advertising alone."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Reels Creation Service",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Content Strategy for Reels",
+          "body": "Every Reel should serve a purpose — building awareness, showcasing expertise, driving a specific action. We build a content plan that maps your Reels to business goals rather than chasing trends aimlessly."
+        },
+        {
+          "title": "Scripting & Storyboarding",
+          "body": "Short-form video lives and dies by its first two seconds. We write scripts and structure Reels with a strong opening hook, clear narrative arc, and deliberate pacing that retains viewers through to the end."
+        },
+        {
+          "title": "Filming Guidance",
+          "body": "We provide shot lists and filming guidance if you're capturing footage yourself, so what you film is actually usable in editing — saving time and retakes."
+        },
+        {
+          "title": "Editing & Post-Production",
+          "body": "Pacing, transitions, text overlays, music selection, and color — we edit for the specific retention patterns of short-form video platforms, not just visual aesthetics."
+        },
+        {
+          "title": "Captioning & Platform Optimization",
+          "body": "Captions are essential — the majority of social video is watched without sound. We add accurate captions and optimize the aspect ratio, file format, and cover image for each platform's specifications."
+        }
+      ]
+    },
+    {
+      "heading": "What Types of Reels Do We Create?",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": null,
+              "text": "Educational and tips-based content"
+            },
+            {
+              "lead": null,
+              "text": "Behind-the-scenes business content"
+            },
+            {
+              "lead": null,
+              "text": "Product or service showcases"
+            },
+            {
+              "lead": null,
+              "text": "Before-and-after transformations"
+            },
+            {
+              "lead": null,
+              "text": "Customer testimonial video"
+            },
+            {
+              "lead": null,
+              "text": "Trend-based content mapped to your brand"
+            },
+            {
+              "lead": null,
+              "text": "Promotional content for campaigns or launches"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Reels Creation Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Strategy & Brief",
+              "text": "We define goals, content themes, and target platforms."
+            },
+            {
+              "lead": "Scripting",
+              "text": "Written scripts or prompts for each Reel, with hook, body, and CTA clearly defined."
+            },
+            {
+              "lead": "Filming",
+              "text": "You film using our guidance, or we advise on a production partner if needed."
+            },
+            {
+              "lead": "Editing",
+              "text": "Full post-production edit with captions, music, and platform optimization."
+            },
+            {
+              "lead": "Delivery & Scheduling",
+              "text": "Ready-to-post files delivered, with scheduling handled if you're a Social Media Management client."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do I need to film the content myself?",
+              "a": "For most clients, yes — we provide scripts and filming guidance so what you capture is fully usable. For certain project types, we can advise on local production options."
+            },
+            {
+              "q": "How often should I post Reels?",
+              "a": "Consistency matters more than volume for most businesses. We typically recommend 2–4 Reels per week for active growth, though even one quality Reel per week consistently outperforms sporadic posting."
+            },
+            {
+              "q": "Can Reels help with my SEO?",
+              "a": "Reels themselves don't directly impact website SEO, but they drive brand awareness and social traffic — and businesses with strong social presence often benefit indirectly from increased branded search volume. [Learn more about SEO Services →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Start Creating Reels That Actually Perform",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        },
+        {
+          "type": "p",
+          "text": "Contact →"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

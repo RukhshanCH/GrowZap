@@ -1,0 +1,86 @@
+{
+  "slug": "pricing",
+  "route": "/pricing",
+  "metaTitle": "Pricing | Digital Marketing Agency Packages — GrowZap",
+  "metaDescription": "See GrowZap's digital marketing pricing packages — transparent, tiered options built for small",
+  "h1": "Pricing — Transparent Packages for Every Stage of Growth",
+  "intro": [
+    "We believe pricing should be clear, not something you have to dig for. Below is an overview of how our packages are typically structured — your exact investment will depend on your specific goals, industry, and scope, which we'll confirm together during a free consultation."
+  ],
+  "heroCta": null,
+  "sections": [
+    {
+      "heading": "How We Price Our Services",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pricing depends on a few factors: which services you need, your industry's competitiveness, and the scope of work involved. Rather than locking every business into the same package regardless of fit, we structure pricing around three general tiers — and we're upfront that for paid advertising (Google Ads, Meta Ads), your ad spend is always separate from our management fee."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Starter Package",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Best for: businesses just beginning to invest in digital marketing. Typically includes: foundational SEO, Google Business Profile optimization, and basic social media management."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Growth Package",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Best for: businesses ready to invest across multiple channels. Typically includes: full SEO services, social media management, and either Google Ads or Meta Ads management."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Full-Service Package",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Best for: businesses wanting a complete, integrated marketing strategy. Typically includes: SEO, paid ads (Google + Meta), social media management, content writing, and design/video support."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Is ad spend included in the package price?",
+              "a": "No — for any paid advertising service (Google Ads, Meta Ads), your ad spend is paid directly to the platform and is separate from our management fee."
+            },
+            {
+              "q": "Can I combine services from different packages?",
+              "a": "Yes, packages are a starting framework, not a rigid limitation — we'll customize based on what your business actually needs."
+            },
+            {
+              "q": "Do you offer a free trial or audit before I commit?",
+              "a": "Yes, every engagement starts with a free audit relevant to the service you're interested in, so you can see our recommendations before committing to a package."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Not Sure Which Package Fits? Let's Talk.",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book a Free Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

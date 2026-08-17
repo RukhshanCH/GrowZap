@@ -1,0 +1,127 @@
+{
+  "slug": "video-editing",
+  "route": "/services/video-editing",
+  "metaTitle": "Video Editing Services | Reels & Short-Form Video — GrowZap",
+  "metaDescription": "GrowZap's video editing services turn raw footage into scroll-stopping reels, ads, and brand video —",
+  "h1": "Video Editing Services — Short-Form Content Built to Get Watched",
+  "intro": [
+    "Short-form video currently drives more organic reach than nearly any other content format — but only if it's edited to actually hold attention. GrowZap's video editing services turn raw footage into reels, ads, and brand video built around hooks, pacing, and retention, not just trimmed clips with a few transitions."
+  ],
+  "heroCta": "Get a Free Video Strategy Consultation",
+  "sections": [
+    {
+      "heading": "Why Short-Form Video Matters for Your Business",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Platforms like Instagram and TikTok actively prioritize short-form video in their algorithms, meaning well-edited reels often reach far more people organically than static posts — without requiring ad spend to get that visibility. For businesses building brand awareness or trying to reach a younger or more visually-driven audience, video has become less optional and more foundational to an effective social strategy."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "What's Included in Our Video Editing Services",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Reels & Short-Form Social Video",
+          "body": "Editing built for the platforms where short-form video lives — strong hooks in the first few seconds, paced for retention, and formatted correctly for each platform."
+        },
+        {
+          "title": "Video Ad Editing",
+          "body": "Video creative for Google Ads and Meta Ads campaigns, edited specifically to perform as paid content, not just repurposed organic footage. [Learn more about Meta Ads →]"
+        },
+        {
+          "title": "Brand & Promotional Video Editing",
+          "body": "Longer-form brand videos, testimonials, and promotional content for your website or YouTube channel."
+        },
+        {
+          "title": "Captions, Subtitles & Repurposing",
+          "body": "We add captions for accessibility and silent viewing (most social video is watched without sound), and can repurpose longer footage into multiple short-form clips."
+        }
+      ]
+    },
+    {
+      "heading": "How We Approach Video Editing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Good short-form video editing isn't just technical skill — it's understanding why people stop scrolling, why they keep watching, and why they take action afterward. We edit with those specific outcomes in mind: a strong opening hook, pacing that respects short attention spans, and a clear point by the time the video ends, rather than editing purely for visual polish without a strategic purpose."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Video Editing Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Footage & Goals Review",
+              "text": "We review your raw footage (or help plan a shoot) and clarify what each video needs to accomplish."
+            },
+            {
+              "lead": "Editing & First Cut",
+              "text": "We edit a first version built around hook, pacing, and platform-specific formatting."
+            },
+            {
+              "lead": "Revisions",
+              "text": "We refine based on your feedback."
+            },
+            {
+              "lead": "Delivery",
+              "text": "Final video is delivered in the correct format and aspect ratio for its intended platform."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "Do I need to provide the raw footage, or can you help film it too?",
+              "a": "We primarily handle editing, though we can advise on shot lists and filming guidance to make sure the footage you capture gives us what we need to edit effectively."
+            },
+            {
+              "q": "How long does video editing typically take?",
+              "a": "Turnaround depends on video length and complexity, but short-form social content is typically turned around faster than longer brand or promotional video projects — we'll confirm specific timelines based on your project."
+            },
+            {
+              "q": "Do you edit for TikTok, Instagram Reels, and YouTube Shorts?",
+              "a": "Yes, we edit and format video for all major short-form platforms, accounting for each platform's specific aspect ratio and best practices."
+            },
+            {
+              "q": "Can you turn one long video into multiple short clips?",
+              "a": "Yes, repurposing longer footage (like a webinar, interview, or event recording) into multiple short-form clips is a common and cost-effective approach we regularly use."
+            },
+            {
+              "q": "Do you offer ongoing monthly video editing, or just one-off projects?",
+              "a": "Both. Many clients use an ongoing monthly volume (often paired with our Social Media Management service), while others use video editing for one-off campaigns or projects."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Video Strategy Consultation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tell us about your footage, goals, and platforms, and we'll talk through what an effective video strategy looks like for your business."
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free Video Strategy Consultation"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

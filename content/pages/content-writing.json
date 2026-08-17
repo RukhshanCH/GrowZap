@@ -1,0 +1,131 @@
+{
+  "slug": "content-writing",
+  "route": "/services/content-writing",
+  "metaTitle": "SEO Content Writing Services | Content Marketing Agency — GrowZap",
+  "metaDescription": "GrowZap is an SEO content agency writing blog, website, and landing page copy built to rank in",
+  "h1": "Content Writing Services — Built to Rank and Built to Convert",
+  "intro": [
+    "Good content does two jobs at once: it helps your website rank in search, and it convinces the people who find it to actually take action. GrowZap is an SEO content agency that writes with both goals in mind — not generic blog posts written to hit a word count, and not keyword-stuffed pages that read like they were written for a robot instead of a person."
+  ],
+  "heroCta": "Get a Free Content Strategy Session",
+  "sections": [
+    {
+      "heading": "What Is SEO Content Writing?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO content writing is the practice of creating website content — blog posts, landing pages, product descriptions — that's structured and written to perform well in search engines while still genuinely serving the reader. That means real keyword research and on-page structure (headings, internal links, search intent alignment) combined with clear, useful, well-written content that actually answers what the reader came to find out. Content that ignores SEO often never gets found. Content that ignores the reader gets found but doesn't convert. We aim for both at once."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Types of Content We Write",
+      "blocks": [],
+      "subsections": [
+        {
+          "title": "Blog Content & Articles",
+          "body": "Strategic, keyword-researched blog content designed to build topical authority over time and answer the questions your potential customers are actually searching."
+        },
+        {
+          "title": "Website & Landing Page Copy",
+          "body": "Core website pages — homepage, about, service pages — written to clearly communicate what you offer and guide visitors toward taking action."
+        },
+        {
+          "title": "Product & Service Page Content",
+          "body": "Detailed, benefit-focused content for individual products or services, optimized for both search visibility and conversion."
+        },
+        {
+          "title": "Email & Marketing Copy",
+          "body": "Email sequences, newsletters, and campaign copy written to maintain your brand voice while driving opens, clicks, and conversions."
+        }
+      ]
+    },
+    {
+      "heading": "How We Approach Content Strategy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Every piece of content starts with a question: what is this page supposed to accomplish — rank for a specific keyword, convert a visitor, build brand trust, or some combination? That answer shapes everything from structure to tone to call-to-action placement. We also map content to existing site structure, so new content supports your broader SEO strategy doesn't reinforce your core service pages. [Learn more about On-Page SEO →]"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Content Writing Process",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "lead": "Content Strategy & Keyword Research",
+              "text": "We identify content opportunities aligned to your business goals and actual customer search behavior."
+            },
+            {
+              "lead": "Outlining & Planning",
+              "text": "Each piece is outlined around search intent and a clear structural plan before writing begins."
+            },
+            {
+              "lead": "Writing & Optimization",
+              "text": "Content is written in your brand voice, optimized for on-page SEO best practices."
+            },
+            {
+              "lead": "Review & Publishing",
+              "text": "You review and approve content before it goes live (or we handle publishing directly, based on your preference)."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the difference between content writing and copywriting?",
+              "a": "Content writing typically refers to informational content (blog posts, articles) focused on educating and building authority, while copywriting usually refers to persuasive, conversion-focused writing (landing pages, ads). We handle both, often blending the two within a single page."
+            },
+            {
+              "q": "Will SEO content writing guarantee my pages rank?",
+              "a": "No single factor guarantees rankings — content works alongside technical SEO, on-page optimization, and off-page authority. Well-written, properly optimized content significantly improves your chances, but it's one part of a broader SEO strategy. [Learn more about SEO Services →]"
+            },
+            {
+              "q": "How much content do I need to start seeing SEO results?",
+              "a": "This depends on your industry's competitiveness and your site's current authority. We'll recommend a realistic content cadence based on your specific situation rather than a generic \"post twice a week\" rule that may not fit your goals."
+            },
+            {
+              "q": "Do you write content for industries you're not familiar with?",
+              "a": "Yes — our process includes research into your specific industry, audience, and competitors for every project, so content is accurate and credible regardless of niche."
+            },
+            {
+              "q": "Can you match our existing brand voice?",
+              "a": "Yes, matching your existing brand voice (or helping establish one if you don't have a defined voice yet) is part of our standard content process."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Content Strategy Session",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Find out what content opportunities exist for your business — and how a focused content strategy could support your SEO and conversion goals."
+        },
+        {
+          "type": "cta",
+          "label": "Book Your Free Content Strategy Session"
+        },
+        {
+          "type": "p",
+          "text": "Graphic designing"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

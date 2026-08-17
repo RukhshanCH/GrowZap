@@ -1,0 +1,122 @@
+{
+  "slug": "startups",
+  "route": "/industries/startups",
+  "metaTitle": "Small Business & Startup Digital Marketing | GrowZap",
+  "metaDescription": "GrowZap's small business marketing services deliver agency-quality strategy",
+  "h1": "Digital Marketing for Startups & Small Businesses — Professional Strategy, Realistic Budget",
+  "intro": [
+    "Small businesses and startups face the same digital marketing challenges as larger competitors — but without the same budget, team, or time to figure it all out at once. GrowZap is built for exactly this situation: a full-service digital marketing agency that builds strategies appropriate to where your business actually is, not a generic enterprise plan scaled down to fit a smaller invoice."
+  ],
+  "heroCta": "Get a Free Small Business Marketing Consultation",
+  "sections": [
+    {
+      "heading": "What Small Businesses Actually Need From a Marketing Agency",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In our experience, small businesses typically need three things from a marketing partner: a realistic strategy they can afford to sustain, execution they can trust without micromanaging, and honest reporting that shows what's actually working — not impressive-looking metrics that don't connect to revenue. We structure every small business engagement around those three things, starting with a free audit that establishes your actual starting point before recommending a single service."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Where to Start When Your Budget Is Limited",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Not every small business needs everything at once. For most, we recommend starting with the highest-impact channel for their specific situation:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Local service businesses:",
+              "text": "Local SEO + Google Business Profile"
+            },
+            {
+              "lead": "Ecommerce:",
+              "text": "Google Shopping + On-Page SEO"
+            },
+            {
+              "lead": "B2B services:",
+              "text": "Content marketing + LinkedIn presence"
+            },
+            {
+              "lead": "Consumer products/lifestyle brands:",
+              "text": "Social media + Meta Ads We'll tell you honestly which one to start with rather than selling you a package covering channels that aren't yet the right fit."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for Small Business",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "SEO Services",
+              "text": "Affordable, long-term organic visibility. [Learn more →]"
+            },
+            {
+              "lead": "Google Ads",
+              "text": "Immediate lead generation for businesses that can't wait 6 months for SEO. [Learn more →]"
+            },
+            {
+              "lead": "Social Media Management",
+              "text": "Consistent brand presence managed by our team. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Authority-building content at a sustainable pace. [Learn more →]"
+            },
+            {
+              "lead": "Graphic Designing",
+              "text": "Professional brand visuals without a full-time designer. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's a realistic marketing budget for a small business?",
+              "a": "There's no single right answer, but a practical framework is to allocate 7–12% of revenue to marketing, starting with the one or two channels most likely to reach your specific customer base. We'll recommend a realistic starting point during your consultation."
+            },
+            {
+              "q": "Is it better to hire an agency or do marketing in-house?",
+              "a": "This depends on your team's existing skills and capacity. Agencies typically offer broader skill coverage (SEO + paid ads + design + content) than a single hire, at a comparable cost — but an in-house person offers more integration with your day-to-day operations. We're happy to work alongside internal teams as well as function as your entire external marketing department."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Small Business Marketing Consultation",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Book Your Free Consultation"
+        },
+        {
+          "type": "p",
+          "text": "Contact →"
+        },
+        {
+          "type": "p",
+          "text": "# GrowZap — Comparison, Location, Testimonials, Blog & Contact Pages"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

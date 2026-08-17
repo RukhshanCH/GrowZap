@@ -1,0 +1,83 @@
+{
+  "slug": "ecommerce",
+  "route": "/industries/ecommerce",
+  "metaTitle": "E-Commerce Digital Marketing | SEO, Ads & Growth — GrowZap",
+  "metaDescription": "GrowZap's ecommerce marketing services drive more traffic and sales to your",
+  "h1": "E-Commerce Marketing Services — More Traffic, More Sales, Lower Cost Per Order",
+  "intro": [
+    "Running an online store without a coordinated marketing strategy means competing on price alone — a race to the bottom. GrowZap's ecommerce marketing services build a multi-channel growth engine combining SEO for long-term organic sales, paid advertising for immediate volume, and content that builds brand loyalty and repeat purchasing."
+  ],
+  "heroCta": "Get a Free Ecommerce Marketing Audit",
+  "sections": [
+    {
+      "heading": "The E-Commerce Marketing Challenge",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "E-commerce businesses face a dual challenge: generating enough traffic to produce sales volume, and converting enough of that traffic to make the economics work. Paid ads can generate volume quickly but eat into margins if cost-per-acquisition isn't managed carefully. SEO builds sustainable, margin-friendly organic traffic but takes time. The most effective ecommerce marketing strategies use both — and we build them to work together rather than in isolation."
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Our Digital Marketing Services for E-Commerce",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            {
+              "lead": "Ecommerce SEO",
+              "text": "Product page optimization, category structure, and content that captures ready-to-buy organic search traffic. [Learn more →]"
+            },
+            {
+              "lead": "Google Shopping Ads",
+              "text": "Product feed management and shopping campaign optimization built around ROAS, not just clicks. [Learn more →]"
+            },
+            {
+              "lead": "Meta Ads",
+              "text": "Product discovery campaigns on Facebook and Instagram, including dynamic product ads and cart abandonment remarketing. [Learn more →]"
+            },
+            {
+              "lead": "Remarketing Campaigns",
+              "text": "Re-engaging visitors who viewed products or abandoned carts. [Learn more →]"
+            },
+            {
+              "lead": "Content Writing",
+              "text": "Buying guides, product comparisons, and category content that drives organic traffic from shoppers in research mode. [Learn more →]"
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "blocks": [
+        {
+          "type": "faqs",
+          "items": [
+            {
+              "q": "What's the most important digital marketing channel for ecommerce?",
+              "a": "It depends on your margin, average order value, and competitive landscape. High-margin products with ready-to-buy search demand often benefit most from SEO + Google Shopping. Lower-priced, visually-driven products often perform well on Meta Ads. Most growing ecommerce stores benefit from both."
+            },
+            {
+              "q": "How do you measure success in ecommerce marketing?",
+              "a": "We track ROAS (return on ad spend), cost per acquisition, organic revenue, and overall conversion rate — business metrics rather than vanity metrics like impressions or reach."
+            }
+          ]
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Get a Free Ecommerce Marketing Audit",
+      "blocks": [
+        {
+          "type": "cta",
+          "label": "Get Your Free Audit"
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}
