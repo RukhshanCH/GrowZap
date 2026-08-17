@@ -1,5 +1,8 @@
 import Link from "next/link";
-import type { ReactNode, ButtonHTMLAttributes } from "react";
+import type {
+  ReactNode,
+  ButtonHTMLAttributes,
+} from "react";
 
 type Variant = "primary" | "secondary" | "on-dark" | "ghost";
 
@@ -7,18 +10,21 @@ interface BaseProps {
   variant?: Variant;
   size?: "md" | "sm";
   block?: boolean;
-  children: ReactNode;
   className?: string;
   showArrow?: boolean;
 }
 
 interface LinkProps extends BaseProps {
+  children: ReactNode;
   href: string;
   target?: string;
   rel?: string;
 }
 
-interface ButtonProps extends BaseProps, ButtonHTMLAttributes<HTMLButtonElement> {
+interface ButtonProps
+  extends BaseProps,
+  Omit<ButtonHTMLAttributes<HTMLButtonElement>, "children"> {
+  children: ReactNode;
   href?: undefined;
 }
 
@@ -41,7 +47,12 @@ const Arrow = () => (
   </svg>
 );
 
-function classes(variant: Variant, size: "md" | "sm", block: boolean, className?: string) {
+function classes(
+  variant: Variant,
+  size: "md" | "sm",
+  block: boolean,
+  className?: string
+) {
   return [
     "btn",
     `btn--${variant}`,
@@ -67,6 +78,7 @@ export function Button({
 
   if (href) {
     const isExternal = href.startsWith("http");
+
     return (
       <Link
         href={href}
@@ -81,7 +93,10 @@ export function Button({
   }
 
   return (
-    <button className={cls} {...(rest as ButtonHTMLAttributes<HTMLButtonElement>)}>
+    <button
+      className={cls}
+      {...(rest as ButtonHTMLAttributes<HTMLButtonElement>)}
+    >
       <span>{children}</span>
       {showArrow && <Arrow />}
     </button>
